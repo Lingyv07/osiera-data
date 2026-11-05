@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="First article inspection report">
+  <path d="M52 22 H140 L182 64 V204 Q182 214 172 214 H60 Q50 214 50 204 V34 Q50 22 52 22 Z" fill="#e6ebf1" stroke="#9aa7b6" stroke-width="4"/>
+  <path d="M140 22 L182 64 H140 Z" fill="#9aa7b6"/>
+  <g stroke="#9aa7b6" stroke-width="8" stroke-linecap="round">
+    <path d="M72 96 H140"/>
+    <path d="M72 122 H124"/>
+    <path d="M72 148 H104"/>
+  </g>
+  <circle cx="150" cy="158" r="42" fill="#ffffff" fill-opacity=".95" stroke="#475569" stroke-width="10"/>
+  <path d="M181 190 L210 219" stroke="#475569" stroke-width="14" stroke-linecap="round"/>
+  <text x="150" y="168" text-anchor="middle" font-size="28" letter-spacing="0.5" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-weight="700" >FAI</text>
+</svg>

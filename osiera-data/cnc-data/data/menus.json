@@ -1,0 +1,23 @@
+{
+    "name": "Osiera Menu",
+    "slug": "osiera-menu",
+    "location": "main-menu",
+    "extra_pages": [
+        { "page": "privacy-policy", "title": { "en": "Privacy Policy", "ja": "プライバシーポリシー" } }
+    ],
+    "items": [
+        { "type": "page", "page": "home", "order": 10, "title": { "en": "Home", "ja": "ホーム" } },
+        { "type": "page", "page": "products", "order": 20, "title": { "en": "Products", "ja": "製品" } },
+        { "type": "page", "page": "news", "order": 30, "title": { "en": "News", "ja": "ニュース" } },
+        { "type": "page", "page": "applications", "order": 40, "title": { "en": "Applications", "ja": "用途" } },
+        { "type": "page", "page": "question", "order": 50, "title": { "en": "FAQ", "ja": "よくある質問" } },
+        { "type": "page", "page": "about-us", "order": 60, "title": { "en": "About Us", "ja": "会社概要" } },
+        { "type": "page", "page": "certificates", "order": 70, "title": { "en": "Certificates", "ja": "認証" } },
+        { "type": "page", "page": "contact", "order": 80, "title": { "en": "Contact", "ja": "お問い合わせ" } },
+        { "type": "product_cat", "term": "cnc-turning", "order": 90, "title": { "en": "CNC Turning", "ja": "CNC旋盤" } },
+        { "type": "product_cat", "term": "cnc-milling", "order": 100, "title": { "en": "CNC Milling", "ja": "CNCフライス" } },
+        { "type": "product_cat", "term": "5-axis-machining", "order": 110, "title": { "en": "5-Axis Machining", "ja": "5軸加工" } },
+        { "type": "product_cat", "term": "sheet-metal", "order": 120, "title": { "en": "Sheet Metal", "ja": "板金加工" } },
+        { "type": "product_cat", "term": "surface-finishing", "order": 130, "title": { "en": "Surface Finishing", "ja": "表面処理" } }
+    ]
+}

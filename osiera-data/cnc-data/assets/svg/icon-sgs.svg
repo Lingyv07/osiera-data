@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="SGS third-party inspection report">
+  <circle cx="120" cy="112" r="88" fill="#c1440e"/>
+  <circle cx="120" cy="112" r="96" fill="none" stroke="#c1440e" stroke-width="6"/>
+  <text x="120" y="132" text-anchor="middle" font-size="62" letter-spacing="2" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700">SGS</text>
+  <text x="120" y="224" text-anchor="middle" font-size="18" letter-spacing="2.6" fill="#c1440e" font-family="Arial, Helvetica, sans-serif" font-weight="700">INSPECTION</text>
+</svg>

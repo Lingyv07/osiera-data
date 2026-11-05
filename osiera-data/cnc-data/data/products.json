@@ -1,0 +1,451 @@
+{
+    "en": [
+        {
+            "slug": "cnc-turned-shafts",
+            "title": "CNC Turned Shafts & Bushes",
+            "order": 10,
+            "terms": [
+                "cnc-turning",
+                "uncategorized"
+            ],
+            "excerpt": "Bar-fed turning for shafts, bushes, spacers and threaded fittings — Ø3–120 mm, ±0.005 mm on critical diameters, Ra 0.4 finish.",
+            "image": "assets/images/product-cnc-turned-shafts.jpg",
+            "gallery": [
+                "assets/images/product-cnc-turned-shafts.jpg",
+                "assets/images/product-cnc-turned-shafts-detail.jpg"
+            ],
+            "summary": "Swiss-type and fixed-head turning from 3 to 120 mm diameter, with cross-drilling, thread milling and a turned finish that goes straight to assembly.",
+            "params": [
+                {
+                    "key": "Material",
+                    "value": "6061-T6 / 304 / 316L / 1045"
+                },
+                {
+                    "key": "Diameter",
+                    "value": "Ø3 – 120 mm"
+                },
+                {
+                    "key": "Tolerance",
+                    "value": "±0.005 mm"
+                },
+                {
+                    "key": "Surface finish",
+                    "value": "Ra 0.4 – 1.6 µm"
+                },
+                {
+                    "key": "Lead time",
+                    "value": "5 – 8 working days"
+                },
+                {
+                    "key": "MOQ",
+                    "value": "1 piece"
+                }
+            ],
+            "warning": "Prices assume bar stock we hold in the rack. An alloy or diameter we have to order adds three to five days for material.",
+            "content": "<p class=\"content-lead\">Bar-fed turning for shafts, bushes, spacers and threaded fittings. Diameters that carry a bearing are held to ±0.005 mm, and the part comes off the machine deburred.</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/product-cnc-turned-shafts-detail.jpg\" alt=\"CMM probe inspecting a machined aluminium fixture on the shop floor\" width=\"650\" height=\"433\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>Every turned batch is checked on a CMM, not by eye — the measurement report ships with the parts.</figcaption>\n</figure>\n\n<h2>Turned parts without a second operation</h2>\n<p>Live tooling and a sub-spindle mean cross holes, flats and threads come off the same setup as the outside diameter. Fewer clampings, less stacking of tolerances, and a part that arrives deburred instead of waiting for a bench.</p>\n\n<h2>What we hold in production</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>Feature</th><th>What we hold</th></tr></thead>\n<tbody>\n<tr><td>Bar capacity</td><td>Ø3 – 120 mm, turned length up to 400 mm</td></tr>\n<tr><td>Diameter tolerance</td><td>±0.005 mm on ground or reamed features</td></tr>\n<tr><td>Length tolerance</td><td>±0.02 mm turned, ±0.01 mm ground</td></tr>\n<tr><td>Threads</td><td>M2 – M30, internal and external, checked with go/no-go gauges</td></tr>\n<tr><td>Surface finish</td><td>Ra 0.4 – 1.6 µm</td></tr>\n<tr><td>Lead time</td><td>5 – 8 working days</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>Where turning stops and milling starts</h2>\n<p>A flat, a slot or an off-axis hole does not turn a turned part into a milled part. If the feature can be reached with live tooling, it stays on the lathe:</p>\n<ul>\n<li>Cross holes and radial ports drilled and reamed in the cycle.</li>\n<li>Hex and double-flat wrench features milled without a second clamping.</li>\n<li>Thread milling for threads that run close to a shoulder.</li>\n<li>Parting off with a chamfer, so the face needs no bench work.</li>\n</ul>\n\n<h2>Typical parts</h2>\n<p>Sensor housings, hydraulic spools, standoffs, threaded inserts, motor shafts and bushings for assemblies that cannot absorb a loose fit. Two of the programmes we run most often are <a href=\"/application/automotive-transmission-housings\">automotive transmission housings</a> and <a href=\"/application/surgical-instrument-components\">surgical instrument components</a>.</p>\n\n<div class=\"content-note\"><p><strong>Documentation:</strong> every new part number ships with a dimensional first article report and a material certificate. Samples are on the <a href=\"/certificates#fai-report\">inspection documents</a> page.</p></div>\n\n<h2>Questions we get before the first order</h2>\n<h3>Do you turn from bar or from a casting?</h3>\n<p>Both. Bar is the normal route up to Ø120 mm; castings and forgings are turned on a fixture with the same tolerance callouts, and the drawing decides which features are machined.</p>\n<h3>Can you hold a bore and an outside diameter concentric?</h3>\n<p>Yes, when both are finished in one clamping. Run-out between the two is typically inside 0.01 mm TIR, measured on the part rather than on the chuck.</p>\n\n<div class=\"content-cta\"><a href=\"/contact\">Send a drawing for a quote</a></div>",
+            "main_title": "CNC Turned Shafts and Bushes Machined From Bar in a Single Setup"
+        },
+        {
+            "slug": "cnc-milled-housings",
+            "title": "Precision Milled Housings",
+            "order": 8,
+            "terms": [
+                "cnc-milling",
+                "uncategorized"
+            ],
+            "excerpt": "3- and 4-axis milling for housings, plates and brackets up to 600 × 400 × 300 mm, with bores and mounting faces held in one setup.",
+            "image": "assets/images/product-cnc-milled-housings.jpg",
+            "gallery": [
+                "assets/images/product-cnc-milled-housings.jpg",
+                "assets/images/product-cnc-milled-housings-detail.jpg"
+            ],
+            "summary": "Prismatic parts machined on vertical and horizontal mills, with bore alignment and face parallelism checked before the part leaves the machine.",
+            "params": [
+                {
+                    "key": "Work envelope",
+                    "value": "600 × 400 × 300 mm"
+                },
+                {
+                    "key": "Tolerance",
+                    "value": "±0.01 mm"
+                },
+                {
+                    "key": "Surface finish",
+                    "value": "Ra 0.8 µm"
+                },
+                {
+                    "key": "Materials",
+                    "value": "Aluminium, steel, stainless"
+                },
+                {
+                    "key": "Lead time",
+                    "value": "5 – 10 working days"
+                },
+                {
+                    "key": "MOQ",
+                    "value": "1 piece"
+                }
+            ],
+            "warning": "Pockets deeper than four times the tool diameter are quoted with a roughing and a finishing pass. Expect one extra day.",
+            "content": "<p class=\"content-lead\">3- and 4-axis milling for housings, plates and brackets up to 600 × 400 × 300 mm, with bores and mounting faces finished in one clamping.</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/product-cnc-milled-housings-detail.jpg\" alt=\"Vertical machining centre cutting a milled housing with coolant running\" width=\"650\" height=\"433\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>Bores and mounting faces are finished in one clamping, so the housing stays square to its own datum.</figcaption>\n</figure>\n\n<h2>One setup for the features that matter</h2>\n<p>Bores, dowel holes and mounting faces are finished in the same clamping whenever the part fits the envelope. That keeps position between features inside ±0.01 mm instead of adding up two setups and a fixture change.</p>\n\n<h2>Machines and tooling</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>Item</th><th>Range</th></tr></thead>\n<tbody>\n<tr><td>Work envelope</td><td>600 × 400 × 300 mm</td></tr>\n<tr><td>Spindle</td><td>12,000 rpm, through-tool coolant</td></tr>\n<tr><td>Bore range</td><td>Ø2 – Ø200 mm, reamed or bored to size</td></tr>\n<tr><td>Position tolerance</td><td>±0.01 mm between features in one setup</td></tr>\n<tr><td>Surface finish</td><td>Ra 0.8 µm as machined</td></tr>\n<tr><td>Lead time</td><td>5 – 10 working days</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>Fixtures that stay with the part number</h2>\n<p>Soft jaws, fixture plates and probe programs are kept under the part number. A repeat order is quoted and run as a repeat, not as a new job — the setup is already proven and the first-off dimensions are on file.</p>\n<ul>\n<li>Thread milling for large or blind threads that a tap would break in.</li>\n<li>In-process probing to set the datum on castings with variable stock.</li>\n<li>Deburring in the cycle for cross holes and pocket edges.</li>\n</ul>\n\n<h2>Typical parts</h2>\n<p>Gearbox covers, sensor brackets, pump bodies, mounting plates and inspection fixtures. Housings that need compound angles usually move to <a href=\"/product/five-axis-aerospace-brackets\">five-axis machining</a>; parts that end up anodised go through our <a href=\"/product/anodised-passivated-parts\">finishing line</a> before packing.</p>\n\n<div class=\"content-note\"><p><strong>Before you send the model:</strong> tell us which face is the datum and which bores carry a bearing. Two lines in the RFQ email save a revision round — our <a href=\"/step-file-to-first-article\">DFM checklist</a> lists the rest.</p></div>\n\n<h2>Questions we get before the first order</h2>\n<h3>Can you machine a housing from a casting?</h3>\n<p>Yes. We probe the as-cast surface, shift the datum to the stock, and leave the wall thickness you specify. Castings with more than 1.5 mm of stock variation get a pre-finish pass quoted separately.</p>\n<h3>How do you check bore alignment?</h3>\n<p>With a CMM on the finished part, reported against the drawing datum rather than against the fixture. Results go into the first article report.</p>\n\n<div class=\"content-cta\"><a href=\"/contact\">Send a model for a DFM review</a></div>",
+            "main_title": "Precision Milled Housings With Bores and Faces Held to ±0.01 mm"
+        },
+        {
+            "slug": "five-axis-aerospace-brackets",
+            "title": "5-Axis Aerospace Brackets",
+            "order": 6,
+            "terms": [
+                "5-axis-machining",
+                "uncategorized"
+            ],
+            "excerpt": "Complex brackets and structural parts machined in one clamping, so hole position does not stack up across three setups.",
+            "image": "assets/images/product-five-axis-aerospace-brackets.jpg",
+            "gallery": [
+                "assets/images/product-five-axis-aerospace-brackets.jpg",
+                "assets/images/product-five-axis-aerospace-brackets-detail.jpg"
+            ],
+            "summary": "Simultaneous five-axis work for parts with compound angles, deep pockets and thin walls, verified on a CMM against the model.",
+            "params": [
+                {
+                    "key": "Axes",
+                    "value": "5 simultaneous"
+                },
+                {
+                    "key": "Tolerance",
+                    "value": "±0.005 mm"
+                },
+                {
+                    "key": "Materials",
+                    "value": "7075 / Ti-6Al-4V / 17-4PH"
+                },
+                {
+                    "key": "Verification",
+                    "value": "CMM + FAI report"
+                },
+                {
+                    "key": "Lead time",
+                    "value": "8 – 12 working days"
+                },
+                {
+                    "key": "MOQ",
+                    "value": "1 piece"
+                }
+            ],
+            "warning": "Titanium and 17-4PH are quoted with a tool-wear allowance. Walls thinner than 1.5 mm need a DFM review before we cut.",
+            "content": "<p class=\"content-lead\">Complex brackets and structural parts machined in one clamping, so hole position does not stack up across three setups.</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/product-five-axis-aerospace-brackets-detail.jpg\" alt=\"Five-axis milling of a pocketed aerospace bracket from solid aluminium\" width=\"650\" height=\"433\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>Holes on four faces are cut without releasing the part, so position stays tied to one datum.</figcaption>\n</figure>\n\n<h2>Why five axes instead of three</h2>\n<p>A bracket with holes on four faces normally needs four setups. Every reclamping adds position error and handling time, and the errors add up in the same direction. Five-axis machining reaches the faces without letting go of the part.</p>\n\n<h2>Where it pays off</h2>\n<ul>\n<li>Compound-angle holes and faces that must stay in tolerance to each other.</li>\n<li>Deep pockets with a contoured floor, cut with a shorter, stiffer tool.</li>\n<li>Thin-wall parts where clamp pressure would distort a second setup.</li>\n<li>One-off prototypes that would otherwise need four fixtures.</li>\n</ul>\n\n<h2>Process window</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>Item</th><th>Specification</th></tr></thead>\n<tbody>\n<tr><td>Axes</td><td>5 simultaneous, trunnion table</td></tr>\n<tr><td>Materials</td><td>7075, Ti-6Al-4V, 17-4PH, 316L</td></tr>\n<tr><td>Tolerance</td><td>±0.005 mm on hole position</td></tr>\n<tr><td>Wall thickness</td><td>1.5 mm minimum after DFM review</td></tr>\n<tr><td>Verification</td><td>CMM against the model + first article report</td></tr>\n<tr><td>Lead time</td><td>8 – 12 working days</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>Inspection</h2>\n<p>Every new part number gets a first article report: CMM points against the model, a material certificate and a signed drawing with the measured values. The same documents travel with production batches on request — samples are on the <a href=\"/certificates\">certificates page</a>.</p>\n\n<div class=\"content-note\"><p><strong>Design note:</strong> titanium and 7075 thin walls move after machining. If the drawing allows, we rough, stress-relieve and finish in a second operation and quote the extra day rather than chase a tolerance that will not hold in the customer's fixture.</p></div>\n\n<h2>Typical programmes</h2>\n<p>Structural brackets for aerospace assemblies, camera mounts, actuator arms and lightweight brackets for automotive fixtures. The aerospace programme is written up as a case study: <a href=\"/application/aerospace-structural-brackets\">aerospace structural brackets</a>.</p>\n\n<div class=\"content-cta\"><a href=\"/contact\">Send a model for a five-axis quote</a></div>",
+            "main_title": "5-Axis Aerospace Brackets Machined From Solid Billet"
+        },
+        {
+            "slug": "sheet-metal-enclosures",
+            "title": "Custom Sheet Metal Enclosures",
+            "order": 4,
+            "terms": [
+                "sheet-metal",
+                "uncategorized"
+            ],
+            "excerpt": "Laser cutting, press braking and welded assemblies — 0.5–6 mm sheet, bend tolerance ±0.1 mm, powder coated or brushed.",
+            "image": "assets/images/product-sheet-metal-enclosures.jpg",
+            "gallery": [
+                "assets/images/product-sheet-metal-enclosures.jpg",
+                "assets/images/product-sheet-metal-enclosures-detail.jpg"
+            ],
+            "summary": "Flat parts, bent brackets and welded enclosures produced from a DXF or a STEP model, with hardware pressed and finishing applied before packing.",
+            "params": [
+                {
+                    "key": "Thickness",
+                    "value": "0.5 – 6 mm"
+                },
+                {
+                    "key": "Bend tolerance",
+                    "value": "±0.1 mm"
+                },
+                {
+                    "key": "Processes",
+                    "value": "Laser / bend / weld / rivet"
+                },
+                {
+                    "key": "Finish",
+                    "value": "Powder coat / brushed"
+                },
+                {
+                    "key": "Lead time",
+                    "value": "7 – 12 working days"
+                },
+                {
+                    "key": "MOQ",
+                    "value": "10 pieces"
+                }
+            ],
+            "warning": "PEM nuts and standoffs are pressed after finishing. Send the assembly drawing, not only the flat pattern, or the hardware will not line up.",
+            "content": "<p class=\"content-lead\">Laser cutting, press braking and welded assemblies — 0.5–6 mm sheet, bend position ±0.1 mm, powder coated or brushed.</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/product-sheet-metal-enclosures-detail.jpg\" alt=\"Rows of formed sheet metal enclosures on the assembly line\" width=\"650\" height=\"433\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>Enclosures are checked assembled rather than flat, so hole alignment is proven before packing.</figcaption>\n</figure>\n\n<h2>From flat pattern to a finished box</h2>\n<p>Laser cutting holds the profile, press braking holds the bend lines, and welding closes the corners. We check the first article assembled, not just flat, because that is where tolerance actually shows up — a 0.1 mm bend error becomes a 0.4 mm gap once four corners meet.</p>\n\n<h2>Capability</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>Process</th><th>Range</th></tr></thead>\n<tbody>\n<tr><td>Sheet thickness</td><td>0.5 – 6 mm mild steel, 0.5 – 4 mm stainless</td></tr>\n<tr><td>Laser cutting</td><td>Fibre, 3,000 × 1,500 mm bed</td></tr>\n<tr><td>Bending</td><td>Up to 2,000 mm, position ±0.1 mm</td></tr>\n<tr><td>Welding</td><td>MIG, TIG, spot, stud</td></tr>\n<tr><td>Finish</td><td>Powder coat in RAL colours, brushed or clear passivation</td></tr>\n<tr><td>Lead time</td><td>7 – 12 working days, MOQ 10 pieces</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>Hardware before paint, not after</h2>\n<p>Pressing inserts and riveting after coating is the usual cause of a cracked finish and a loose fastener. We press hardware, tap and mask before the parts go to the paint line, and the drawing states which faces must stay bare for earthing.</p>\n<ul>\n<li>Self-clinching nuts and standoffs pressed in-house.</li>\n<li>Masking of threads, earth points and mating faces.</li>\n<li>Silkscreen or laser marking of labels after coating.</li>\n<li>Flat-pack or assembled delivery, with hardware bagged per unit.</li>\n</ul>\n\n<h2>Typical parts</h2>\n<p>Control cabinets, motor mounts, equipment covers, chassis and mounting brackets. If the housing needs machined bores or a flat sealing face, it is produced as a milled part instead — see <a href=\"/product/cnc-milled-housings\">precision milled housings</a>.</p>\n\n<div class=\"content-note\"><p><strong>Send a DXF or a STEP model.</strong> A flat DXF is enough for a quote if the bend lines and material are on the drawing; a STEP model lets us check the fold-up before cutting. Our <a href=\"/step-file-to-first-article\">file checklist</a> covers what else helps.</p></div>\n\n<h2>Questions we get before the first order</h2>\n<h3>What is the minimum order?</h3>\n<p>Ten pieces for a new enclosure, because the first article is checked assembled and that check is paid once. Repeat orders run from one piece.</p>\n<h3>Can you match an existing RAL colour?</h3>\n<p>Yes, to a supplied sample or a RAL number. Gloss level is confirmed on a sprayed coupon before the batch is coated.</p>\n\n<div class=\"content-cta\"><a href=\"/contact\">Send a DXF for a sheet metal quote</a></div>",
+            "main_title": "Custom Sheet Metal Enclosures From Prototype to Series"
+        },
+        {
+            "slug": "anodised-passivated-parts",
+            "title": "Anodised & Passivated Parts",
+            "order": 2,
+            "terms": [
+                "surface-finishing",
+                "uncategorized"
+            ],
+            "excerpt": "Type II and Type III anodising, passivation, zinc plating and laser marking — applied in-house and inspected before packing.",
+            "image": "assets/images/product-anodised-passivated-parts.jpg",
+            "gallery": [
+                "assets/images/product-anodised-passivated-parts.jpg",
+                "assets/images/product-anodised-passivated-parts-detail.jpg"
+            ],
+            "summary": "Finishing lines for aluminium and stainless, with colour, coating thickness and salt-spray checks recorded per batch.",
+            "params": [
+                {
+                    "key": "Anodising",
+                    "value": "Type II / Type III"
+                },
+                {
+                    "key": "Passivation",
+                    "value": "ASTM A967"
+                },
+                {
+                    "key": "Plating",
+                    "value": "Zinc / nickel"
+                },
+                {
+                    "key": "Colour",
+                    "value": "Clear / black / custom"
+                },
+                {
+                    "key": "Lead time",
+                    "value": "3 – 6 working days"
+                },
+                {
+                    "key": "MOQ",
+                    "value": "1 piece"
+                }
+            ],
+            "warning": "Dyed anodising is matched to a range, not an exact Pantone. If the shade is critical, send a physical sample with the order.",
+            "content": "<p class=\"content-lead\">Type II and Type III anodising, passivation, zinc plating and laser marking — applied in-house and inspected before packing.</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/product-anodised-passivated-parts-detail.jpg\" alt=\"Anodised and passivated machined parts stacked after finishing\" width=\"650\" height=\"433\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>Finished parts are marked and bagged per batch, so the finish and the paperwork stay together.</figcaption>\n</figure>\n\n<h2>Finish is a dimension</h2>\n<p>Anodising grows into the surface and out of it, so a bore that gauged at the top of tolerance can end up 8 µm tight. We mask threads and fits, and state the growth on the drawing so assembly does not become a reaming job.</p>\n\n<h2>What we run</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>Process</th><th>Specification</th></tr></thead>\n<tbody>\n<tr><td>Anodising</td><td>Type II decorative, Type III hard coat, 5 – 25 µm</td></tr>\n<tr><td>Passivation</td><td>ASTM A967, for 304 and 316L</td></tr>\n<tr><td>Plating</td><td>Zinc, zinc-nickel through a partner line, inspected on return</td></tr>\n<tr><td>Colour</td><td>Clear, black, or matched to a supplied sample</td></tr>\n<tr><td>Marking</td><td>Laser part number, logo, 2D code</td></tr>\n<tr><td>Lead time</td><td>3 – 6 working days, MOQ 1 piece</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>Checks per batch</h2>\n<ul>\n<li>Coating thickness on a coupon from the same rack.</li>\n<li>Colour against the approved sample under daylight and D65.</li>\n<li>Salt-spray coupon for outdoor and marine batches.</li>\n<li>Thread gauging after coating, not before.</li>\n</ul>\n\n<h2>Matching finish to function</h2>\n<p>Hard coat for wear surfaces and sliding fits, Type II where colour and corrosion resistance matter more than abrasion. For parts that will be welded or earthed, the drawing should mark the masked areas — an anodised surface does not conduct. Material certificates for the substrate come with every batch; see <a href=\"/certificates#material-cert\">material certification</a>.</p>\n\n<div class=\"content-note\"><p><strong>Cost note:</strong> colour batches are priced per rack, not per part. Grouping parts that share a finish into one order is usually cheaper than splitting them across two, even when the second batch is small. Lead times for both are in our <a href=\"/faq/how-long-does-an-order-take\">delivery FAQ</a>.</p></div>\n\n<h2>Questions we get before the first order</h2>\n<h3>How much does anodising change a bore?</h3>\n<p>Type II grows about 5 – 10 µm per surface, Type III up to 25 µm. We state the allowance on the drawing and, where the fit is critical, mask the bore and anodise around it.</p>\n<h3>Can you mark parts after coating?</h3>\n<p>Yes — laser marking cuts through the coating and leaves a contrasting mark. For parts where the mark must survive a salt spray, we mark before sealing.</p>\n\n<div class=\"content-cta\"><a href=\"/contact\">Ask about a finish trial</a></div>",
+            "main_title": "Anodised and Passivated Parts With Colour-Matched Finishing"
+        }
+    ],
+    "ja": [
+        {
+            "slug": "cnc-turned-shafts",
+            "title": "CNC旋盤のシャフト・ブッシュ",
+            "order": 10,
+            "terms": [
+                "cnc-turning"
+            ],
+            "image": "assets/images/product-cnc-turned-shafts.jpg",
+            "gallery": [
+                "assets/images/product-cnc-turned-shafts.jpg",
+                "assets/images/product-cnc-turned-shafts-detail.jpg"
+            ],
+            "excerpt": "棒材からの旋盤加工で、シャフト、ブッシュ、スペーサー、ねじ継手を製作。Φ3〜120mm、重要径は±0.005mm、表面粗さRa0.4。",
+            "summary": "スイス型と固定主軸の旋盤でΦ3〜120mmを加工。クロス穴、ねじ切り、面取りまで同一段取りで仕上げ、そのまま組立に回せます。",
+            "params": [
+                {
+                    "key": "材質",
+                    "value": "6061-T6 / 304 / 316L / 1045"
+                },
+                {
+                    "key": "径",
+                    "value": "Φ3 〜 120 mm"
+                },
+                {
+                    "key": "公差",
+                    "value": "±0.005 mm"
+                },
+                {
+                    "key": "表面粗さ",
+                    "value": "Ra 0.4 〜 1.6 µm"
+                },
+                {
+                    "key": "納期",
+                    "value": "5 〜 8営業日"
+                },
+                {
+                    "key": "最小ロット",
+                    "value": "1個"
+                }
+            ],
+            "warning": "価格は当社在庫の棒材を前提としています。取り寄せが必要な合金・径の場合は、材料手配に3〜5日追加となります。",
+            "content": "<p class=\"content-lead\">シャフト、ブッシュ、スペーサー、ねじ継手の棒材旋削。軸受が入る径は ±0.005mm で管理し、バリ取りまで終えた状態で納品します。</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/product-cnc-turned-shafts-detail.jpg\" alt=\"工場内で三次元測定機により検査されるアルミ製冶具\" width=\"650\" height=\"433\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>旋盤加工のロットは三次元測定機で確認し、測定結果を部品に添付します。</figcaption>\n</figure>\n\n<h2>後工程なしで仕上がる旋削部品</h2>\n<p>ライブツールとサブスピンドルを使うため、クロス穴・二面幅・ねじは外径と同じ段取りで加工できます。クランプ回数が減り、公差の積み上げも抑えられ、バリ取り待ちのない状態で部品が上がります。</p>\n\n<h2>量産で保証している範囲</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>項目</th><th>保証範囲</th></tr></thead>\n<tbody>\n<tr><td>棒材径</td><td>Ø3 – 120mm、旋削長さ最大400mm</td></tr>\n<tr><td>径公差</td><td>研削・リーマ仕上げ部 ±0.005mm</td></tr>\n<tr><td>長さ公差</td><td>旋削 ±0.02mm、研削 ±0.01mm</td></tr>\n<tr><td>ねじ</td><td>M2 – M30、雌雄とも通止めゲージで全数確認</td></tr>\n<tr><td>表面粗さ</td><td>Ra 0.4 – 1.6µm</td></tr>\n<tr><td>納期</td><td>5 – 8営業日</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>旋削で終わる範囲、フライスに回す範囲</h2>\n<p>平面や溝、軸外の穴があるからといって、すぐにフライス部品になるわけではありません。ライブツールで届く位置なら旋盤に残します。</p>\n<ul>\n<li>クロス穴・ラジアルポートの穴あけとリーマ仕上げ。</li>\n<li>六角・二面幅の加工を段取り替えなしで実施。</li>\n<li>肩に近いねじはねじ切りフライスで対応。</li>\n<li>面取り付きの突切りで、端面の後工程を省略。</li>\n</ul>\n\n<h2>代表的な部品</h2>\n<p>センサーハウジング、油圧スプール、スペーサー、ねじインサート、モーターシャフト、ガタを許容できない組立用ブッシュなど。多く手がけている案件は <a href=\"/ja/application/automotive-transmission-housings\">自動車用トランスミッションハウジング</a> と <a href=\"/ja/application/surgical-instrument-components\">手術器具部品</a> です。</p>\n\n<div class=\"content-note\"><p><strong>書類:</strong> 新規品番ごとに寸法初品検査成績書と材料証明書を添付します。見本は <a href=\"/ja/certificates#fai-report\">検査書類</a> のページに掲載しています。</p></div>\n\n<h2>初回発注前によくある質問</h2>\n<h3>棒材からの加工ですか、鋳物からの加工ですか。</h3>\n<p>どちらも対応します。Ø120mm までは棒材が標準で、鋳物・鍛造品は治具に載せて同じ公差指示で旋削します。どこを加工するかは図面で指定してください。</p>\n<h3>穴と外径の同軸は取れますか。</h3>\n<p>同一段取りで仕上げる場合は取れます。振れは概ね 0.01mm TIR 以内で、チャックではなく部品そのものを測定します。</p>\n\n<div class=\"content-cta\"><a href=\"/ja/contact\">図面を送って見積もりを依頼する</a></div>",
+            "main_title": "バー材から1工程で仕上げるCNC旋盤のシャフトとブッシュ"
+        },
+        {
+            "slug": "cnc-milled-housings",
+            "title": "精密フライス加工のハウジング",
+            "order": 8,
+            "terms": [
+                "cnc-milling"
+            ],
+            "image": "assets/images/product-cnc-milled-housings.jpg",
+            "gallery": [
+                "assets/images/product-cnc-milled-housings.jpg",
+                "assets/images/product-cnc-milled-housings-detail.jpg"
+            ],
+            "excerpt": "600×400×300mmまでのハウジング、プレート、ブラケットを3軸・4軸で加工。穴位置と取付面を一度の段取りで仕上げます。",
+            "summary": "立型・横型フライスで角物部品を加工。穴の同軸度と面の平行度を、機械から下ろす前に確認します。",
+            "params": [
+                {
+                    "key": "加工範囲",
+                    "value": "600 × 400 × 300 mm"
+                },
+                {
+                    "key": "公差",
+                    "value": "±0.01 mm"
+                },
+                {
+                    "key": "表面粗さ",
+                    "value": "Ra 0.8 µm"
+                },
+                {
+                    "key": "材質",
+                    "value": "アルミ、鋼、ステンレス"
+                },
+                {
+                    "key": "納期",
+                    "value": "5 〜 10営業日"
+                },
+                {
+                    "key": "最小ロット",
+                    "value": "1個"
+                }
+            ],
+            "warning": "工具径の4倍を超える深いポケットは、荒加工と仕上げの2工程で見積もります。1日追加となります。",
+            "content": "<p class=\"content-lead\">600 × 400 × 300mm までのハウジング、プレート、ブラケットを3軸・4軸で加工。穴と取付面は同一段取りで仕上げます。</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/product-cnc-milled-housings-detail.jpg\" alt=\"クーラントをかけながらハウジングを加工する立形マシニングセンタ\" width=\"650\" height=\"433\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>軸受穴と取付面を同一クランプで仕上げるため、ハウジングは基準面に対して直角度を保ちます。</figcaption>\n</figure>\n\n<h2>重要な形状を一工程で</h2>\n<p>ワークが範囲に収まる限り、穴・ノックピン穴・取付面は同じクランプで仕上げます。段取りを2回に分けて治具を替えるよりも、形状間の位置は ±0.01mm 以内に収まります。</p>\n\n<h2>設備と工具</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>項目</th><th>範囲</th></tr></thead>\n<tbody>\n<tr><td>加工範囲</td><td>600 × 400 × 300mm</td></tr>\n<tr><td>主軸</td><td>12,000rpm、スルークーラント対応</td></tr>\n<tr><td>穴径</td><td>Ø2 – Ø200mm、リーマ・中ぐり仕上げ</td></tr>\n<tr><td>位置公差</td><td>同一段取り内の形状間 ±0.01mm</td></tr>\n<tr><td>表面粗さ</td><td>加工面 Ra 0.8µm</td></tr>\n<tr><td>納期</td><td>5 – 10営業日</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>品番ごとに保管する治具</h2>\n<p>軟質ジョー、治具プレート、プローブプログラムは品番単位で保管します。追加発注は新規案件ではなく「繰り返し」として見積もり・加工するため、段取りは実証済み、初品の寸法記録も残っています。</p>\n<ul>\n<li>タップでは折れやすい大径・止まり穴のねじはねじ切りフライスで加工。</li>\n<li>鋳物の肉厚ばらつきに合わせ、機上プローブで基準を決めて加工。</li>\n<li>クロス穴やポケット縁のバリ取りはサイクル内で実施。</li>\n</ul>\n\n<h2>代表的な部品</h2>\n<p>ギヤボックスカバー、センサーブラケット、ポンプボディ、取付プレート、検査治具など。複合角度が必要なハウジングは <a href=\"/ja/product/five-axis-aerospace-brackets\">5軸加工</a> へ、アルマイト仕上げが必要な部品は <a href=\"/ja/product/anodised-passivated-parts\">表面処理ライン</a> を経て梱包します。</p>\n\n<div class=\"content-note\"><p><strong>モデルを送る前に:</strong> 基準面と、軸受が入る穴を教えてください。メール2行で手戻りが1回減ります。それ以外の確認項目は <a href=\"/ja/step-file-to-first-article\">DFMチェックリスト</a> にまとめています。</p></div>\n\n<h2>初回発注前によくある質問</h2>\n<h3>鋳物からのハウジング加工は可能ですか。</h3>\n<p>可能です。鋳肌をプローブで測定し、基準を素材に合わせてシフトし、指定の肉厚を残します。素材のばらつきが1.5mmを超える場合は、荒加工を別途見積もります。</p>\n<h3>穴の同軸・位置はどう確認しますか。</h3>\n<p>完成品をCMMで測定し、治具基準ではなく図面基準で報告します。結果は初品検査成績書に記載します。</p>\n\n<div class=\"content-cta\"><a href=\"/ja/contact\">モデルを送ってDFMレビューを依頼する</a></div>",
+            "main_title": "穴と面を±0.01mmで仕上げる精密フライス加工ハウジング"
+        },
+        {
+            "slug": "five-axis-aerospace-brackets",
+            "title": "5軸加工の航空宇宙ブラケット",
+            "order": 6,
+            "terms": [
+                "5-axis-machining"
+            ],
+            "image": "assets/images/product-five-axis-aerospace-brackets.jpg",
+            "gallery": [
+                "assets/images/product-five-axis-aerospace-brackets.jpg",
+                "assets/images/product-five-axis-aerospace-brackets-detail.jpg"
+            ],
+            "excerpt": "複雑なブラケットや構造部品を一度のクランプで加工。3回の段取りで穴位置を積み上げません。",
+            "summary": "複合角度、深いポケット、薄肉形状を同時5軸で加工し、CMMでモデルと照合します。",
+            "params": [
+                {
+                    "key": "軸数",
+                    "value": "同時5軸"
+                },
+                {
+                    "key": "公差",
+                    "value": "±0.005 mm"
+                },
+                {
+                    "key": "材質",
+                    "value": "7075 / Ti-6Al-4V / 17-4PH"
+                },
+                {
+                    "key": "検査",
+                    "value": "CMM + 初品成績書"
+                },
+                {
+                    "key": "納期",
+                    "value": "8 〜 12営業日"
+                },
+                {
+                    "key": "最小ロット",
+                    "value": "1個"
+                }
+            ],
+            "warning": "チタンと17-4PHは工具摩耗分を見込んで見積もります。1.5mm未満の薄肉は、加工前にDFMレビューが必要です。",
+            "content": "<p class=\"content-lead\">複雑なブラケットや構造部品を1回のクランプで加工し、3段取りによる穴位置の積み上げをなくします。</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/product-five-axis-aerospace-brackets-detail.jpg\" alt=\"アルミ材からポケット付き航空宇宙ブラケットを5軸加工する様子\" width=\"650\" height=\"433\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>4面の穴をワークを離さずに加工するため、穴位置は1つの基準に揃います。</figcaption>\n</figure>\n\n<h2>3軸ではなく5軸を使う理由</h2>\n<p>4面に穴があるブラケットは、通常4回の段取りが必要です。クランプし直すたびに位置誤差と段取り時間が増え、誤差は同じ方向に積み上がります。5軸加工ならワークを離さずに各面へ届きます。</p>\n\n<h2>効果が出るケース</h2>\n<ul>\n<li>互いに公差を保つ必要がある複合角度の穴・面。</li>\n<li>底面が曲面の深いポケット。短く剛性の高い工具で加工できます。</li>\n<li>2回目のクランプ圧で歪む薄肉部品。</li>\n<li>面ごとに治具が必要になる単品試作。</li>\n</ul>\n\n<h2>加工仕様</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>項目</th><th>仕様</th></tr></thead>\n<tbody>\n<tr><td>軸構成</td><td>同時5軸、トラニオンテーブル</td></tr>\n<tr><td>材料</td><td>7075、Ti-6Al-4V、17-4PH、316L</td></tr>\n<tr><td>公差</td><td>穴位置 ±0.005mm</td></tr>\n<tr><td>肉厚</td><td>DFMレビュー後、最小1.5mm</td></tr>\n<tr><td>検証</td><td>モデルに対するCMM測定＋初品検査成績書</td></tr>\n<tr><td>納期</td><td>8 – 12営業日</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>検査</h2>\n<p>新規品番ごとに、モデルに対するCMM測定点、材料証明書、実測値を記入した図面を初品検査成績書として提出します。量産ロットにも希望に応じて同じ書類を添付します。見本は <a href=\"/ja/certificates\">認証・検査書類</a> のページにあります。</p>\n\n<div class=\"content-note\"><p><strong>設計時の注意:</strong> チタンや7075の薄肉は加工後に動きます。図面が許すなら、荒加工→応力除去→仕上げの2工程とし、お客様の治具で保持できない公差を追うのではなく、1日分の工程を追加して見積もります。</p></div>\n\n<h2>主な案件</h2>\n<p>航空宇宙組立用の構造ブラケット、カメラマウント、アクチュエータアーム、自動車用治具の軽量ブラケットなど。航空宇宙案件は <a href=\"/ja/application/aerospace-structural-brackets\">航空宇宙用構造ブラケット</a> に事例としてまとめています。</p>\n\n<div class=\"content-cta\"><a href=\"/ja/contact\">モデルを送って5軸加工の見積もりを依頼する</a></div>",
+            "main_title": "削り出し一体構造の5軸加工航空宇宙ブラケット"
+        },
+        {
+            "slug": "sheet-metal-enclosures",
+            "title": "特注板金筐体",
+            "order": 4,
+            "terms": [
+                "sheet-metal"
+            ],
+            "image": "assets/images/product-sheet-metal-enclosures.jpg",
+            "gallery": [
+                "assets/images/product-sheet-metal-enclosures.jpg",
+                "assets/images/product-sheet-metal-enclosures-detail.jpg"
+            ],
+            "excerpt": "レーザー切断、プレスブレーキ、溶接組立。板厚0.5〜6mm、曲げ公差±0.1mm、粉体塗装またはヘアライン仕上げ。",
+            "summary": "DXFまたはSTEPモデルから、平板部品、曲げブラケット、溶接筐体を製作。圧入ナットと表面処理まで済ませて梱包します。",
+            "params": [
+                {
+                    "key": "板厚",
+                    "value": "0.5 〜 6 mm"
+                },
+                {
+                    "key": "曲げ公差",
+                    "value": "±0.1 mm"
+                },
+                {
+                    "key": "工程",
+                    "value": "レーザー / 曲げ / 溶接 / リベット"
+                },
+                {
+                    "key": "表面処理",
+                    "value": "粉体塗装 / ヘアライン"
+                },
+                {
+                    "key": "納期",
+                    "value": "7 〜 12営業日"
+                },
+                {
+                    "key": "最小ロット",
+                    "value": "10個"
+                }
+            ],
+            "warning": "PEMナットやスタンドオフは表面処理後に圧入します。平板図だけでなく組立図もお送りください。位置が合わなくなります。",
+            "content": "<p class=\"content-lead\">レーザー切断、曲げ、溶接まで一貫対応。板厚0.5 – 6mm、曲げ位置 ±0.1mm、粉体塗装またはヘアライン仕上げ。</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/product-sheet-metal-enclosures-detail.jpg\" alt=\"組立ラインに並ぶ板金筐体\" width=\"650\" height=\"433\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>平板ではなく組立状態で初品を確認するため、穴位置のずれを出荷前に潰せます。</figcaption>\n</figure>\n\n<h2>展開図から筐体まで</h2>\n<p>レーザー切断で輪郭を、プレスブレーキで曲げ線を、溶接で隅を出します。初品は平板ではなく組立状態で確認します。0.1mmの曲げ誤差も、四隅が合わさると0.4mmの隙間になるからです。</p>\n\n<h2>対応範囲</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>工程</th><th>範囲</th></tr></thead>\n<tbody>\n<tr><td>板厚</td><td>軟鋼 0.5 – 6mm、ステンレス 0.5 – 4mm</td></tr>\n<tr><td>レーザー切断</td><td>ファイバー、3,000 × 1,500mm</td></tr>\n<tr><td>曲げ</td><td>最大2,000mm、位置 ±0.1mm</td></tr>\n<tr><td>溶接</td><td>MIG、TIG、スポット、スタッド</td></tr>\n<tr><td>仕上げ</td><td>RAL色の粉体塗装、ヘアライン、不動態化</td></tr>\n<tr><td>納期</td><td>7 – 12営業日、最小ロット10個</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>塗装の前に金具を入れる</h2>\n<p>塗装後にインサートを圧入したりリベットを打つと、塗膜が割れ、締結が緩む原因になります。金具の圧入、タップ、マスキングは塗装前に済ませ、アース用に塗膜を付けない面は図面で指定していただきます。</p>\n<ul>\n<li>セルフクリンチングナット・スタンドオフの自社圧入。</li>\n<li>ねじ部、アース点、合わせ面のマスキング。</li>\n<li>塗装後のラベル印刷・レーザーマーキング。</li>\n<li>平板納品・組立納品の選択、金具は1台ごとに袋詰め。</li>\n</ul>\n\n<h2>代表的な部品</h2>\n<p>制御盤、モーターマウント、装置カバー、シャーシ、取付ブラケットなど。加工穴や平面度が必要な密封面を持つ筐体は、旋削・フライス品として製作します。<a href=\"/ja/product/cnc-milled-housings\">精密フライス加工ハウジング</a> をご覧ください。</p>\n\n<div class=\"content-note\"><p><strong>DXFまたはSTEPモデルをお送りください。</strong> 曲げ線と材質が図面に入っていれば展開DXFだけでも見積もり可能です。STEPモデルがあれば、切断前に折り上がりを検証できます。その他の必要書類は <a href=\"/ja/step-file-to-first-article\">ファイルチェックリスト</a> にまとめています。</p></div>\n\n<h2>初回発注前によくある質問</h2>\n<h3>最小ロットはどのくらいですか。</h3>\n<p>新しい筐体は10個からです。初品を組立状態で確認するため、その確認費用が1回分発生します。追加発注は1個から対応します。</p>\n<h3>既存のRAL色に合わせられますか。</h3>\n<p>見本またはRAL番号で合わせられます。光沢度は、本塗装前にスプレーしたテストピースで確認します。</p>\n\n<div class=\"content-cta\"><a href=\"/ja/contact\">DXFを送って板金の見積もりを依頼する</a></div>",
+            "main_title": "試作から量産まで対応する特注板金筐体"
+        },
+        {
+            "slug": "anodised-passivated-parts",
+            "title": "アルマイト・不動態化処理部品",
+            "order": 2,
+            "terms": [
+                "surface-finishing"
+            ],
+            "image": "assets/images/product-anodised-passivated-parts.jpg",
+            "gallery": [
+                "assets/images/product-anodised-passivated-parts.jpg",
+                "assets/images/product-anodised-passivated-parts-detail.jpg"
+            ],
+            "excerpt": "Type II・Type IIIアルマイト、不動態化、亜鉛めっき、レーザーマーキングを社内で実施し、梱包前に検査します。",
+            "summary": "アルミとステンレスの表面処理ライン。色、膜厚、塩水噴霧の結果をロットごとに記録します。",
+            "params": [
+                {
+                    "key": "アルマイト",
+                    "value": "Type II / Type III"
+                },
+                {
+                    "key": "不動態化",
+                    "value": "ASTM A967"
+                },
+                {
+                    "key": "めっき",
+                    "value": "亜鉛 / ニッケル"
+                },
+                {
+                    "key": "色",
+                    "value": "クリア / 黒 / 特注色"
+                },
+                {
+                    "key": "納期",
+                    "value": "3 〜 6営業日"
+                },
+                {
+                    "key": "最小ロット",
+                    "value": "1個"
+                }
+            ],
+            "warning": "染色アルマイトはPantoneの一点ではなく色域で合わせます。色が重要な場合は、現物見本を注文に添えてください。",
+            "content": "<p class=\"content-lead\">アルマイト（Type II / Type III）、不動態化、亜鉛めっき、レーザーマーキングを自社ラインで対応し、梱包前に検査します。</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/product-anodised-passivated-parts-detail.jpg\" alt=\"表面処理後に積み重ねられたアルマイト・不動態化部品\" width=\"650\" height=\"433\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>仕上げ後はロットごとにマーキングして袋詰めし、処理と書類を一緒に管理します。</figcaption>\n</figure>\n\n<h2>表面処理も寸法のうち</h2>\n<p>アルマイトは表面に成長するため、公差上限で仕上げた穴が8µm 締まることがあります。ねじ部や嵌合部はマスキングし、成長量を図面に明記します。そうしなければ、組立がリーマ作業になってしまいます。</p>\n\n<h2>対応している処理</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>処理</th><th>仕様</th></tr></thead>\n<tbody>\n<tr><td>アルマイト</td><td>Type II 装飾用、Type III 硬質、5 – 25µm</td></tr>\n<tr><td>不動態化</td><td>ASTM A967、304 / 316L</td></tr>\n<tr><td>めっき</td><td>亜鉛、亜鉛ニッケル（協力工場、戻り時に全数外観検査）</td></tr>\n<tr><td>色</td><td>クリア、黒、見本合わせ</td></tr>\n<tr><td>マーキング</td><td>レーザーで品番・ロゴ・2次元コード</td></tr>\n<tr><td>納期</td><td>3 – 6営業日、最小ロット1個</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>ロットごとの確認</h2>\n<ul>\n<li>同じラックから取ったテストピースで膜厚測定。</li>\n<li>昼光とD65光源で承認見本と色合わせ。</li>\n<li>屋外・海洋用途のロットは塩水噴霧テストピースを添付。</li>\n<li>ねじは処理後に通止めゲージで確認。</li>\n</ul>\n\n<h2>機能に合わせた処理の選び方</h2>\n<p>摺動面や耐摩耗が必要な箇所は硬質アルマイト、色と耐食性を優先するなら Type II です。溶接やアースが必要な部品は、マスキング範囲を図面に指示してください。アルマイト面は通電しません。素材の材料証明書はロットごとに添付します。<a href=\"/ja/certificates#material-cert\">材料証明</a> をご覧ください。</p>\n\n<div class=\"content-note\"><p><strong>コストの注意:</strong> 色ごとのロットは部品単位ではなくラック単位で価格が決まります。同じ処理の部品を1回にまとめた方が、2回に分けるより安くなるのが通常です。納期は <a href=\"/ja/faq/how-long-does-an-order-take\">納期FAQ</a> にまとめています。</p></div>\n\n<h2>初回発注前によくある質問</h2>\n<h3>アルマイトで穴はどのくらい変わりますか。</h3>\n<p>Type II は片面あたり約5 – 10µm、Type III は最大25µm 成長します。余裕は図面に明記し、嵌合が重要な穴はマスキングして周囲だけ処理します。</p>\n<h3>処理後にマーキングできますか。</h3>\n<p>可能です。レーザーは皮膜を貫通しコントラストのある印になります。塩水噴霧に耐える必要がある部品は、封孔処理の前にマーキングします。</p>\n\n<div class=\"content-cta\"><a href=\"/ja/contact\">表面処理の試作について相談する</a></div>",
+            "main_title": "色合わせまで含めて仕上げるアルマイト・不動態化処理部品"
+        }
+    ]
+}

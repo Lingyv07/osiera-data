@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="IATF 16949 automotive quality management certification">
+  <polygon points="99.3,30.4 104.1,7.1 135.9,7.1 140.7,30.4 150.7,33.3 159.6,37.0 168.8,42.0 188.6,29.0 211.0,51.4 198.0,71.2 203.0,80.4 206.7,89.3 209.6,99.3 232.9,104.1 232.9,135.9 209.6,140.7 206.7,150.7 203.0,159.6 198.0,168.8 211.0,188.6 188.6,211.0 168.8,198.0 159.6,203.0 150.7,206.7 140.7,209.6 135.9,232.9 104.1,232.9 99.3,209.6 89.3,206.7 80.4,203.0 71.2,198.0 51.4,211.0 29.0,188.6 42.0,168.8 37.0,159.6 33.3,150.7 30.4,140.7 7.1,135.9 7.1,104.1 30.4,99.3 33.3,89.3 37.0,80.4 42.0,71.2 29.0,51.4 51.4,29.0 71.2,42.0 80.4,37.0 89.3,33.3" fill="#334155"/>
+  <circle cx="120" cy="120" r="64" fill="#f8fafc"/>
+  <text x="120" y="112" text-anchor="middle" font-size="15" letter-spacing="2.2" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-weight="700" >IATF</text>
+  <text x="120" y="146" text-anchor="middle" font-size="31" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-weight="700" >16949</text>
+</svg>

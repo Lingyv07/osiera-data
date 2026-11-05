@@ -1,0 +1,575 @@
+{
+    "shared": {
+        "telephone": "+86 138 0000 0000",
+        "whats_app": "8613800000000",
+        "same_as": "https://www.linkedin.com;https://x.com",
+        "email": "sales@osiera.example",
+        "google_map_url": "https://www.google.com/maps?q=Xiaoshan%20District%2C%20Hangzhou%2C%20Zhejiang%2C%20China&output=embed",
+        "google_map_src": "https://www.google.com/maps?q=Xiaoshan%20District%2C%20Hangzhou%2C%20Zhejiang%2C%20China",
+        "whatsapp_url": "",
+        "whatsapp_text": "",
+        "company_introduction_video": "assets/videos/company-shop-floor.mp4",
+        "company_video": "assets/videos/company-shop-floor.mp4",
+        "custom_bg_video": ""
+    },
+    "en": {
+        "address": "No. 18 Hongxin Road, Xiaoshan District, Hangzhou, Zhejiang, China",
+        "copy_info": "© 2026 Osiera. All rights reserved.",
+        "home_main_image": "assets/images/banner-home.jpg",
+        "company_video_image": "assets/images/video-poster.jpg",
+        "about_culture_image": "assets/images/about-culture.jpg",
+        "product_top_image": "assets/images/banner-product.jpg",
+        "post_top_image": "assets/images/banner-posts.jpg",
+        "application_top_image": "assets/images/banner-news.jpg",
+        "faq_top_image": "assets/images/banner-faq.jpg",
+        "about_top_image": "assets/images/banner-about.jpg",
+        "contact_top_image": "assets/images/banner-contact.jpg",
+        "certificates_top_image": "assets/images/banner-certificates.jpg",
+        "default_image_product": "assets/images/default-product.jpg",
+        "default_image_application": "assets/images/default-application.jpg",
+        "default_image_post": "assets/images/default-post.jpg",
+        "default_image_new": "assets/images/default-news.jpg",
+        "default_image_faq": "assets/images/default-faq.jpg",
+        "images": [
+            {
+                "src": "assets/images/banner-home.jpg",
+                "route": "/products"
+            },
+            {
+                "src": "assets/images/slide-2.jpg",
+                "route": "/product/five-axis-aerospace-brackets"
+            },
+            {
+                "src": "assets/images/slide-3.jpg",
+                "route": "/applications"
+            }
+        ],
+        "media_list_json": [
+            {
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com",
+                "icon_url": "assets/svg/linkedin.svg"
+            },
+            {
+                "name": "X",
+                "url": "https://x.com",
+                "icon_url": "assets/svg/x-social.svg"
+            }
+        ],
+        "certificates_json": {
+            "page_header": {
+                "title": "Certificates",
+                "description": "Quality system registrations plus the material and dimensional records that ship with every order."
+            },
+            "hero_certificate": {
+                "id": "iso-9001",
+                "file_url": "assets/images/cert-iso-9001.jpg",
+                "image_url": "assets/images/cert-iso-9001.jpg",
+                "image_alt": "ISO 9001 quality management certificate",
+                "target_href": "",
+                "badge_text": "ISO 9001",
+                "title": "Quality management system",
+                "specs": [
+                    {
+                        "label": "Standard",
+                        "value": "ISO 9001:2015"
+                    },
+                    {
+                        "label": "Certificate no.",
+                        "value": "QMS-2026-0612"
+                    },
+                    {
+                        "label": "Scope",
+                        "value": "CNC machining of custom parts"
+                    },
+                    {
+                        "label": "Valid until",
+                        "value": "2027-06-30"
+                    }
+                ],
+                "button_text": "Download certificate"
+            },
+            "certificate_groups": [
+                {
+                    "group_title": "Management systems",
+                    "items": [
+                        {
+                            "id": "iso-9001",
+                            "file_url": "assets/images/cert-iso-9001.jpg",
+                            "image_url": "assets/images/cert-iso-9001.jpg",
+                            "image_alt": "ISO 9001 quality management certificate",
+                            "title": "Quality management system",
+                            "report_no": "QMS-2026-0418",
+                            "standard_text": "ISO 9001:2015",
+                            "description_text": "Documented quality management system from quotation through final inspection, audited once a year.",
+                            "link_text": "View document"
+                        },
+                        {
+                            "id": "iso-14001",
+                            "file_url": "assets/images/cert-iso-14001.jpg",
+                            "image_url": "assets/images/cert-iso-14001.jpg",
+                            "image_alt": "ISO 14001 environmental management certificate",
+                            "title": "Environmental management",
+                            "report_no": "EMS-2026-0418",
+                            "standard_text": "ISO 14001:2015",
+                            "description_text": "Coolant handling, chip recycling and waste routing on the shop floor, audited once a year.",
+                            "link_text": "View document"
+                        },
+                        {
+                            "id": "iatf-16949",
+                            "file_url": "assets/images/cert-iatf-16949.jpg",
+                            "image_url": "assets/images/cert-iatf-16949.jpg",
+                            "image_alt": "IATF 16949 automotive quality certificate",
+                            "title": "Automotive quality",
+                            "report_no": "IATF-2026-0117",
+                            "standard_text": "IATF 16949:2016",
+                            "description_text": "Covers automotive housings and brackets produced under PPAP, with control plans kept per part number.",
+                            "link_text": "View document"
+                        },
+                        {
+                            "id": "iso-45001",
+                            "file_url": "assets/images/cert-iso-45001.jpg",
+                            "image_url": "assets/images/cert-iso-45001.jpg",
+                            "image_alt": "ISO 45001 occupational health and safety certificate",
+                            "title": "Occupational health and safety",
+                            "report_no": "OHS-2026-0326",
+                            "standard_text": "ISO 45001:2018",
+                            "description_text": "Machine guarding, coolant mist extraction and noise control, reviewed with the shop team every quarter.",
+                            "link_text": "View document"
+                        }
+                    ]
+                },
+                {
+                    "group_title": "Inspection documents",
+                    "items": [
+                        {
+                            "id": "fai-report",
+                            "file_url": "assets/images/cert-fai-report.jpg",
+                            "image_url": "assets/images/cert-fai-report.jpg",
+                            "image_alt": "First article inspection report",
+                            "title": "First article report",
+                            "report_no": "FAI-2026-0903",
+                            "standard_text": "AS9102",
+                            "description_text": "Every new part number ships with a dimensional report against the model, ballooned and signed.",
+                            "link_text": "View report"
+                        },
+                        {
+                            "id": "material-cert",
+                            "file_url": "assets/images/cert-material-cert.jpg",
+                            "image_url": "assets/images/cert-material-cert.jpg",
+                            "image_alt": "Material certificate sample",
+                            "title": "Material certificate",
+                            "report_no": "MAT-2026-0821",
+                            "standard_text": "EN 10204 3.1",
+                            "description_text": "Heat number, chemical composition and mechanical properties traced to the bar or plate actually used.",
+                            "link_text": "View report"
+                        },
+                        {
+                            "id": "dimensional-report",
+                            "file_url": "assets/images/cert-dimensional-report.jpg",
+                            "image_url": "assets/images/cert-dimensional-report.jpg",
+                            "image_alt": "Dimensional inspection report with measured values",
+                            "title": "Dimensional inspection report",
+                            "report_no": "DIM-2026-0911",
+                            "standard_text": "ISO 2768-mK",
+                            "description_text": "Critical features measured on the CMM, with the measured value, tolerance and pass/fail column filled in by hand.",
+                            "link_text": "View report"
+                        }
+                    ]
+                },
+                {
+                    "group_title": "EU compliance & third-party reports",
+                    "items": [
+                        {
+                            "id": "ce",
+                            "file_url": "assets/images/cert-ce-marking.jpg",
+                            "image_url": "assets/images/cert-ce-marking.jpg",
+                            "image_alt": "CE marking certificate",
+                            "title": "CE marking",
+                            "report_no": "CE-2026-0715",
+                            "standard_text": "EN 1090-1 / Machinery Directive 2006/42/EC",
+                            "description_text": "Fabricated steel and machine frames can be placed on the EU market; the declaration of performance ships with the parts.",
+                            "link_text": "View document"
+                        },
+                        {
+                            "id": "rohs",
+                            "file_url": "assets/images/cert-rohs-declaration.jpg",
+                            "image_url": "assets/images/cert-rohs-declaration.jpg",
+                            "image_alt": "RoHS compliance declaration",
+                            "title": "RoHS compliance",
+                            "report_no": "ROHS-2026-0612",
+                            "standard_text": "Directive 2011/65/EU",
+                            "description_text": "Cadmium, lead, mercury and the four phthalates are checked per batch and stay under the threshold.",
+                            "link_text": "View document"
+                        },
+                        {
+                            "id": "sgs-report",
+                            "file_url": "assets/images/cert-sgs-report.jpg",
+                            "image_url": "assets/images/cert-sgs-report.jpg",
+                            "image_alt": "SGS inspection report",
+                            "title": "SGS inspection report",
+                            "report_no": "SGS-2026-0921",
+                            "standard_text": "Third-party witness inspection",
+                            "description_text": "SGS witnesses the dimensional check on site; the signed report is issued with the shipping documents.",
+                            "link_text": "View document"
+                        },
+                        {
+                            "id": "tuv-report",
+                            "file_url": "assets/images/cert-tuv-welding.jpg",
+                            "image_url": "assets/images/cert-tuv-welding.jpg",
+                            "image_alt": "TUV welding audit report",
+                            "title": "TUV welding audit",
+                            "report_no": "TUV-2026-0830",
+                            "standard_text": "EN ISO 3834-2 welding audit",
+                            "description_text": "Welding procedure, consumable storage and operator certificates are audited once a year by TUV.",
+                            "link_text": "View document"
+                        },
+                        {
+                            "id": "iso-3834",
+                            "file_url": "assets/images/cert-iso-3834.jpg",
+                            "image_url": "assets/images/cert-iso-3834.jpg",
+                            "image_alt": "ISO 3834-2 welding certificate",
+                            "title": "Welding quality system",
+                            "report_no": "WLD-2026-0514",
+                            "standard_text": "ISO 3834-2",
+                            "description_text": "Covers WPS/WPQR records, welder qualification and heat input control across every welding cell.",
+                            "link_text": "View document"
+                        }
+                    ]
+                }
+            ],
+            "icon_list": [
+                {
+                    "id": "ce",
+                    "image_url": "assets/svg/icon-ce.svg",
+                    "alt": "CE marking, European Union conformity"
+                },
+                {
+                    "id": "rohs",
+                    "image_url": "assets/svg/icon-rohs.svg",
+                    "alt": "RoHS 2011/65/EU compliance"
+                },
+                {
+                    "id": "sgs-report",
+                    "image_url": "assets/svg/icon-sgs.svg",
+                    "alt": "SGS third-party inspection report"
+                },
+                {
+                    "id": "tuv-report",
+                    "image_url": "assets/svg/icon-tuv.svg",
+                    "alt": "TUV audited welding report"
+                },
+                {
+                    "id": "iso-3834",
+                    "image_url": "assets/svg/icon-iso-3834.svg",
+                    "alt": "ISO 3834-2 welding quality"
+                },
+                {
+                    "id": "iso-9001",
+                    "image_url": "assets/svg/icon-iso-9001.svg",
+                    "alt": "ISO 9001 quality management"
+                },
+                {
+                    "id": "iso-14001",
+                    "image_url": "assets/svg/icon-iso-14001.svg",
+                    "alt": "ISO 14001 environmental management"
+                },
+                {
+                    "id": "iatf-16949",
+                    "image_url": "assets/svg/icon-iatf-16949.svg",
+                    "alt": "IATF 16949 automotive quality"
+                },
+                {
+                    "id": "iso-45001",
+                    "image_url": "assets/svg/icon-iso-45001.svg",
+                    "alt": "ISO 45001 health and safety"
+                },
+                {
+                    "id": "fai-report",
+                    "image_url": "assets/svg/icon-fai-report.svg",
+                    "alt": "First article inspection report"
+                }
+            ]
+        }
+    },
+    "ja": {
+        "address": "浙江省杭州市蕭山区宏信路18号",
+        "copy_info": "© 2026 Osiera. All rights reserved.",
+        "home_main_image": "assets/images/banner-home.jpg",
+        "company_video_image": "assets/images/video-poster.jpg",
+        "about_culture_image": "assets/images/about-culture.jpg",
+        "product_top_image": "assets/images/banner-product.jpg",
+        "post_top_image": "assets/images/banner-posts.jpg",
+        "application_top_image": "assets/images/banner-news.jpg",
+        "faq_top_image": "assets/images/banner-faq.jpg",
+        "about_top_image": "assets/images/banner-about.jpg",
+        "contact_top_image": "assets/images/banner-contact.jpg",
+        "certificates_top_image": "assets/images/banner-certificates.jpg",
+        "default_image_product": "assets/images/default-product.jpg",
+        "default_image_application": "assets/images/default-application.jpg",
+        "default_image_post": "assets/images/default-post.jpg",
+        "default_image_new": "assets/images/default-news.jpg",
+        "default_image_faq": "assets/images/default-faq.jpg",
+        "images": [
+            {
+                "src": "assets/images/banner-home.jpg",
+                "route": "/products"
+            },
+            {
+                "src": "assets/images/slide-2.jpg",
+                "route": "/product/five-axis-aerospace-brackets"
+            },
+            {
+                "src": "assets/images/slide-3.jpg",
+                "route": "/applications"
+            }
+        ],
+        "media_list_json": [
+            {
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com",
+                "icon_url": "assets/svg/linkedin.svg"
+            },
+            {
+                "name": "X",
+                "url": "https://x.com",
+                "icon_url": "assets/svg/x-social.svg"
+            }
+        ],
+        "certificates_json": {
+            "page_header": {
+                "title": "認証",
+                "description": "品質マネジメントの登録証と、出荷ごとに添付する材料・寸法の検査記録です。"
+            },
+            "hero_certificate": {
+                "id": "iso-9001",
+                "file_url": "assets/images/cert-iso-9001.jpg",
+                "image_url": "assets/images/cert-iso-9001.jpg",
+                "image_alt": "ISO 9001 品質マネジメント認証書",
+                "target_href": "",
+                "badge_text": "ISO 9001",
+                "title": "品質マネジメントシステム",
+                "specs": [
+                    {
+                        "label": "規格",
+                        "value": "ISO 9001:2015"
+                    },
+                    {
+                        "label": "証明書番号",
+                        "value": "QMS-2026-0612"
+                    },
+                    {
+                        "label": "適用範囲",
+                        "value": "受託部品のCNC加工"
+                    },
+                    {
+                        "label": "有効期限",
+                        "value": "2027-06-30"
+                    }
+                ],
+                "button_text": "認証書をダウンロード"
+            },
+            "certificate_groups": [
+                {
+                    "group_title": "マネジメントシステム",
+                    "items": [
+                        {
+                            "id": "iso-9001",
+                            "file_url": "assets/images/cert-iso-9001.jpg",
+                            "image_url": "assets/images/cert-iso-9001.jpg",
+                            "image_alt": "ISO 9001 品質マネジメント認証書",
+                            "title": "品質マネジメントシステム",
+                            "report_no": "QMS-2026-0418",
+                            "standard_text": "ISO 9001:2015",
+                            "description_text": "見積から最終検査までの品質マネジメントシステムを文書化。年1回の外部審査を受けています。",
+                            "link_text": "書類を見る"
+                        },
+                        {
+                            "id": "iso-14001",
+                            "file_url": "assets/images/cert-iso-14001.jpg",
+                            "image_url": "assets/images/cert-iso-14001.jpg",
+                            "image_alt": "ISO 14001 環境マネジメント認証書",
+                            "title": "環境マネジメント",
+                            "report_no": "EMS-2026-0418",
+                            "standard_text": "ISO 14001:2015",
+                            "description_text": "切削油の管理、切粉のリサイクル、廃棄物の分別と経路。年1回の外部審査を受けています。",
+                            "link_text": "書類を見る"
+                        },
+                        {
+                            "id": "iatf-16949",
+                            "file_url": "assets/images/cert-iatf-16949.jpg",
+                            "image_url": "assets/images/cert-iatf-16949.jpg",
+                            "image_alt": "IATF 16949 自動車品質認証書",
+                            "title": "自動車品質",
+                            "report_no": "IATF-2026-0117",
+                            "standard_text": "IATF 16949:2016",
+                            "description_text": "PPAPに基づいて生産する自動車用ハウジングとブラケットに適用。管理計画書は品番ごとに保管します。",
+                            "link_text": "書類を見る"
+                        },
+                        {
+                            "id": "iso-45001",
+                            "file_url": "assets/images/cert-iso-45001.jpg",
+                            "image_url": "assets/images/cert-iso-45001.jpg",
+                            "image_alt": "ISO 45001 労働安全衛生マネジメント認証書",
+                            "title": "労働安全衛生",
+                            "report_no": "OHS-2026-0326",
+                            "standard_text": "ISO 45001:2018",
+                            "description_text": "機械の安全カバー、ミスト集塵、騒音対策。四半期ごとに現場メンバーと見直しています。",
+                            "link_text": "書類を見る"
+                        }
+                    ]
+                },
+                {
+                    "group_title": "検査書類",
+                    "items": [
+                        {
+                            "id": "fai-report",
+                            "file_url": "assets/images/cert-fai-report.jpg",
+                            "image_url": "assets/images/cert-fai-report.jpg",
+                            "image_alt": "初品検査成績書",
+                            "title": "初品検査成績書",
+                            "report_no": "FAI-2026-0903",
+                            "standard_text": "AS9102",
+                            "description_text": "新規品番ごとに、モデルに対する寸法検査成績をバルーン指示付きで発行します。",
+                            "link_text": "書類を見る"
+                        },
+                        {
+                            "id": "material-cert",
+                            "file_url": "assets/images/cert-material-cert.jpg",
+                            "image_url": "assets/images/cert-material-cert.jpg",
+                            "image_alt": "材料証明書の見本",
+                            "title": "材料証明書",
+                            "report_no": "MAT-2026-0821",
+                            "standard_text": "EN 10204 3.1",
+                            "description_text": "実際に使用した丸棒・板材のヒート番号、化学成分、機械的性質を追跡できます。",
+                            "link_text": "書類を見る"
+                        },
+                        {
+                            "id": "dimensional-report",
+                            "file_url": "assets/images/cert-dimensional-report.jpg",
+                            "image_url": "assets/images/cert-dimensional-report.jpg",
+                            "image_alt": "寸法検査報告書（実測値入り）",
+                            "title": "寸法検査報告書",
+                            "report_no": "DIM-2026-0911",
+                            "standard_text": "ISO 2768-mK",
+                            "description_text": "重要寸法をCMMで測定し、実測値・公差・合否を記入して提出します。",
+                            "link_text": "書類を見る"
+                        }
+                    ]
+                },
+                {
+                    "group_title": "EU 適合・第三者報告書",
+                    "items": [
+                        {
+                            "id": "ce",
+                            "file_url": "assets/images/cert-ce-marking.jpg",
+                            "image_url": "assets/images/cert-ce-marking.jpg",
+                            "image_alt": "CE マーキング証明書",
+                            "title": "CE マーキング",
+                            "report_no": "CE-2026-0715",
+                            "standard_text": "EN 1090-1 / 機械指令 2006/42/EC",
+                            "description_text": "鋼構造物と機枠を EU 市場に投入できます。性能宣言書を部品に同梱します。",
+                            "link_text": "資料を見る"
+                        },
+                        {
+                            "id": "rohs",
+                            "file_url": "assets/images/cert-rohs-declaration.jpg",
+                            "image_url": "assets/images/cert-rohs-declaration.jpg",
+                            "image_alt": "RoHS 適合宣言書",
+                            "title": "RoHS 適合",
+                            "report_no": "ROHS-2026-0612",
+                            "standard_text": "指令 2011/65/EU",
+                            "description_text": "カドミウム・鉛・水銀・フタル酸類をバッチごとに検査し、基準値以下を確認しています。",
+                            "link_text": "資料を見る"
+                        },
+                        {
+                            "id": "sgs-report",
+                            "file_url": "assets/images/cert-sgs-report.jpg",
+                            "image_url": "assets/images/cert-sgs-report.jpg",
+                            "image_alt": "SGS 検査報告書",
+                            "title": "SGS 検査報告書",
+                            "report_no": "SGS-2026-0921",
+                            "standard_text": "第三者立会検査",
+                            "description_text": "SGS が現地で寸法検査に立ち会い、署名済み報告書を出荷書類と一緒に発行します。",
+                            "link_text": "資料を見る"
+                        },
+                        {
+                            "id": "tuv-report",
+                            "file_url": "assets/images/cert-tuv-welding.jpg",
+                            "image_url": "assets/images/cert-tuv-welding.jpg",
+                            "image_alt": "TÜV 溶接監査報告書",
+                            "title": "TÜV 溶接監査",
+                            "report_no": "TUV-2026-0830",
+                            "standard_text": "EN ISO 3834-2 溶接監査",
+                            "description_text": "溶接施工要領、消耗品管理、作業者資格を年 1 回 TÜV が監査します。",
+                            "link_text": "資料を見る"
+                        },
+                        {
+                            "id": "iso-3834",
+                            "file_url": "assets/images/cert-iso-3834.jpg",
+                            "image_url": "assets/images/cert-iso-3834.jpg",
+                            "image_alt": "ISO 3834-2 溶接証明書",
+                            "title": "溶接品質システム",
+                            "report_no": "WLD-2026-0514",
+                            "standard_text": "ISO 3834-2",
+                            "description_text": "WPS/WPQR、溶接士資格、入熱管理を全溶接セルで運用しています。",
+                            "link_text": "資料を見る"
+                        }
+                    ]
+                }
+            ],
+            "icon_list": [
+                {
+                    "id": "ce",
+                    "image_url": "assets/svg/icon-ce.svg",
+                    "alt": "CE マーキング（EU 適合）"
+                },
+                {
+                    "id": "rohs",
+                    "image_url": "assets/svg/icon-rohs.svg",
+                    "alt": "RoHS 指令 2011/65/EU 適合"
+                },
+                {
+                    "id": "sgs-report",
+                    "image_url": "assets/svg/icon-sgs.svg",
+                    "alt": "SGS 第三者検査報告書"
+                },
+                {
+                    "id": "tuv-report",
+                    "image_url": "assets/svg/icon-tuv.svg",
+                    "alt": "TÜV 溶接監査報告書"
+                },
+                {
+                    "id": "iso-3834",
+                    "image_url": "assets/svg/icon-iso-3834.svg",
+                    "alt": "ISO 3834-2 溶接品質"
+                },
+                {
+                    "id": "iso-9001",
+                    "image_url": "assets/svg/icon-iso-9001.svg",
+                    "alt": "ISO 9001 品質マネジメント"
+                },
+                {
+                    "id": "iso-14001",
+                    "image_url": "assets/svg/icon-iso-14001.svg",
+                    "alt": "ISO 14001 環境マネジメント"
+                },
+                {
+                    "id": "iatf-16949",
+                    "image_url": "assets/svg/icon-iatf-16949.svg",
+                    "alt": "IATF 16949 自動車品質"
+                },
+                {
+                    "id": "iso-45001",
+                    "image_url": "assets/svg/icon-iso-45001.svg",
+                    "alt": "ISO 45001 労働安全衛生"
+                },
+                {
+                    "id": "fai-report",
+                    "image_url": "assets/svg/icon-fai-report.svg",
+                    "alt": "初品検査成績書"
+                }
+            ]
+        }
+    }
+}

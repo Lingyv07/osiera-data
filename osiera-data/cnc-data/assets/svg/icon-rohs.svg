@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="RoHS 2011/65/EU restricted substances compliance">
+  <path d="M120 26 C 78 54 66 104 92 140 C 118 176 168 168 186 132 C 204 96 176 46 120 26 Z" fill="#eef7ee"/>
+  <path d="M120 44 C 122 92 120 138 112 174" fill="none" stroke="#2e7d32" stroke-width="7" stroke-linecap="round"/>
+  <path d="M120 92 C 100 86 86 72 80 54 C 100 56 116 68 120 92 Z" fill="#2e7d32"/>
+  <path d="M118 128 C 138 120 152 104 158 84 C 136 88 120 104 118 128 Z" fill="#4a9e4f"/>
+  <text x="120" y="214" text-anchor="middle" font-size="34" letter-spacing="0.6" fill="#2e7d32" font-family="Arial, Helvetica, sans-serif" font-weight="700">RoHS</text>
+</svg>

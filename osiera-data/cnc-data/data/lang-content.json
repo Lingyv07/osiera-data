@@ -1,0 +1,354 @@
+{
+  "en": {
+    "header": {
+      "search-placeholder": "Search keywords...",
+      "call-now": "Call now",
+      "select-language-description": "Please select your language",
+      "social-media-description": "Social sharing",
+      "search-label": "Search parts or shop notes"
+    },
+    "footer": {
+      "company": "Osiera",
+      "address-title": "Address",
+      "telephone-title": "Telephone",
+      "email-title": "Email",
+      "copy-success": "Copy successful",
+      "contact-us": "Contact Us",
+      "send": "Send",
+      "name-placeholder": "* Enter Your Name or Company name",
+      "email-placeholder": "* Enter Your Email",
+      "telephone-placeholder": "Enter Your Telephone",
+      "inquiry-placeholder": "* Part material, quantity, tolerance and finish — or attach a STEP file by email",
+      "message-success": "Submit successfully",
+      "message-error": "Submission failed",
+      "home": "Home",
+      "products": "Products",
+      "news": "News",
+      "message": "Message",
+      "about-us": "About Us",
+      "contact": "Contact",
+      "company-desc": "CNC machining for non-standard parts: turning, milling, 5-axis, sheet metal and finishing — one-off prototypes to 10k runs.",
+      "street-address": "No. 18 Hongxin Road, Xiaoshan District",
+      "address-region": "Zhejiang",
+      "address-locality": "Hangzhou",
+      "brand": "Osiera",
+      "whats-app-title": "WhatsApp",
+      "copy-email": "Click to copy Email"
+    },
+    "home": {
+      "our-products": "What we machine",
+      "our-products-desc": "Turning, milling, 5-axis, sheet metal and finishing — each with the tolerance, material range and lead time we hold in production.",
+      "applicable": "Industries we serve",
+      "applicable-desc": "Automotive, aerospace and medical programmes where a non-standard part has to fit the first time.",
+      "custom-title": "Need a part that does not exist yet?",
+      "custom-desc": "Send a STEP file and a tolerance callout. We quote in one working day and cut the first article in seven.",
+      "custom-btn-text": "Request a quote",
+      "about-us-more": "More about our shop",
+      "latest-news": "Latest News",
+      "faq": "FAQ",
+      "video-title": "A look inside the shop",
+      "video-desc": "How a STEP file becomes a first article report.",
+      "title": "Osiera — CNC Machining for Non-Standard Parts",
+      "description": "CNC turning, milling, 5-axis machining and sheet metal for custom parts. Tolerances to ±0.005 mm, one-piece prototypes and production runs, quoted in one working day.",
+      "page-title": "Non-standard parts, machined to the tolerance you actually need",
+      "summary-subtitle": "±0.005 mm · 1 piece to 10k · quoted in one working day"
+    },
+    "product": {
+      "inquire-new": "Request a Quote",
+      "product-categories": "Part categories",
+      "new-products": "New Parts",
+      "related-products": "Related Parts",
+      "read-more": "Read More",
+      "total-pages": "Total Pages",
+      "title": "CNC Machining Services",
+      "description": "Turning, milling, 5-axis, sheet metal and surface finishing — with the tolerances, materials and lead times we hold in production.",
+      "breadcrumb-list-name": "Products",
+      "warning-icon": "assets/svg/warning-icon.svg"
+    },
+    "news": {
+      "title": "News",
+      "description": "Shop notes on quoting, tolerances, materials and getting a first article through inspection.",
+      "breadcrumb-list-name": "News"
+    },
+    "applications": {
+      "title": "Applications",
+      "description": "Programmes we machine for, and what each industry actually asks of a non-standard part.",
+      "breadcrumb-list-name": "Applications"
+    },
+    "faq": {
+      "title": "FAQ",
+      "description": "MOQ, files, tolerances, materials, lead times and finishing — answered the way we answer on the shop floor.",
+      "breadcrumb-list-name": "FAQ"
+    },
+    "about-us": {
+      "title": "A machine shop built around the drawing",
+      "desc": "Osiera machines non-standard parts for OEMs in Europe and North America. Turning, milling, five-axis, laser cutting and a metrology room under one roof — so a revision does not mean a new supplier.",
+      "summary-subtitle": "±0.005 mm · 1 piece to 10k · quoted in one working day",
+      "video-summary-desc": "A walk through the shop: how a STEP file becomes a first article report.",
+      "summary-info-items": [
+        { "title": "Machining since", "value": "2011" },
+        { "title": "Tolerance held", "value": "±0.005" },
+        { "title": "Materials stocked", "value": "40+" },
+        { "title": "On-time delivery", "value": "98%" }
+      ],
+      "company-overview-items": [
+        { "title": "Start with the drawing", "text": "Tolerance, material and finish are agreed before a tool is loaded. Most cost surprises start as an unclear callout." },
+        { "title": "One setup, fewer errors", "text": "Five-axis and mill-turn work let us hold position in one clamping instead of stacking tolerances across three." },
+        { "title": "Inspection is part of the process", "text": "First article reports, CMM data and material certificates ship with the parts, not after a request." },
+        { "title": "Prototype to production, same machine", "text": "The part you approve on piece one is made the same way on piece ten thousand." }
+      ],
+      "our-strengths": "Our strengths",
+      "our-strengths-items": [
+        { "icon": "assets/svg/strength-grid.svg", "text": "Turning, milling and 5-axis under one roof" },
+        { "icon": "assets/svg/strength-check.svg", "text": "±0.005 mm on critical features, measured not claimed" },
+        { "icon": "assets/svg/strength-speed.svg", "text": "First article report with every new part number" },
+        { "icon": "assets/svg/strength-mail.svg", "text": "One working day from STEP file to quote" }
+      ],
+      "company-culture": "How we work",
+      "company-culture-items": [
+        { "title": "Quote what we can hold", "text": "If a tolerance is not repeatable in production, we say so before the order, not after the first article." },
+        { "title": "One piece is a valid order", "text": "Prototypes go on the same machines as production, not on a bench with a file." },
+        { "title": "Chase the burr, not the deadline", "text": "Deburring and cleaning are scheduled operations, not something squeezed in at packing." },
+        { "title": "Paperwork travels with the part", "text": "Material certificates, inspection data and packing lists are in the box." }
+      ],
+      "need-to-know": "What you need to know",
+      "need-to-know-items": [
+        { "title": "Files", "text": "STEP or IGES plus a 2D PDF for critical features. Native SolidWorks or Fusion files are fine too." },
+        { "title": "Minimum order", "text": "One piece for prototypes. Production pricing starts at 50 pieces." },
+        { "title": "Lead time", "text": "3–5 working days for prototypes, 7–15 for production, depending on finishing." },
+        { "title": "Materials", "text": "6061 and 7075 aluminium, 304 and 316L stainless, 1045 steel, brass, titanium and engineering plastics." },
+        { "title": "Finishing", "text": "Anodising, passivation, zinc plating, powder coating, laser marking and light assembly." },
+        { "title": "Shipping", "text": "DHL or FedEx door to door, or EXW if you use a forwarder in Ningbo or Shanghai." }
+      ]
+    },
+    "contact-us": {
+      "title": "Contact",
+      "description": "Send a drawing or describe the part. We answer within one working day with a price, a lead time and the questions we still need answered."
+    },
+    "certificates": {
+      "title": "Certificates",
+      "description": "Quality system registrations and the inspection documents that ship with every order."
+    },
+    "privacy-policy": {
+      "title": "Privacy Policy",
+      "description": "What this site stores, why, and how to have it removed."
+    },
+    "search": {
+      "title": "Search Results"
+    },
+    "functional": {
+      "inquiry": {
+        "title": "Leave A Message",
+        "point-message": "Need Help? Leave A Message"
+      },
+      "page": "Page"
+    },
+    "not-found": {
+      "not-found": "Not Found",
+      "search-label": "Search for other Products or News"
+    },
+    "message": {
+      "inquiry": {
+        "empty-param": "Important information is missing",
+        "email-format": "Email format error",
+        "success": "Submit received successfully",
+        "error": "Submit received failed",
+        "req-frequently": "Requests too frequently"
+      }
+    },
+    "cookie": {
+      "cookie-policy-title": "Cookie Policy",
+      "cookie-policy-content": "To provide you with a better browsing experience, this website uses cookies. By clicking “Accept” or continuing to browse, you agree to our use of cookies.",
+      "cookie-policy-more": "Learn More",
+      "cookie-policy-reject-text": "Reject",
+      "cookie-policy-btn": "Accept"
+    },
+    "organization": {
+      "logo-name": "Osiera",
+      "contact-type": "customer service",
+      "web-site-description": "CNC machining for non-standard parts: turning, milling, 5-axis, sheet metal and surface finishing.",
+      "knows-about": [
+        "CNC turning",
+        "CNC milling",
+        "5-axis machining",
+        "Sheet metal fabrication"
+      ]
+    }
+  },
+  "ja": {
+    "header": {
+      "search-placeholder": "キーワードを入力…",
+      "call-now": "お電話はこちら",
+      "select-language-description": "表示言語を選択してください",
+      "social-media-description": "シェア",
+      "search-label": "部品・加工ノートを検索"
+    },
+    "footer": {
+      "company": "Osiera",
+      "address-title": "住所",
+      "telephone-title": "電話",
+      "email-title": "メール",
+      "copy-success": "コピーしました",
+      "contact-us": "お問い合わせ",
+      "send": "送信",
+      "name-placeholder": "※ お名前または会社名を入力",
+      "email-placeholder": "※ メールアドレスを入力",
+      "telephone-placeholder": "電話番号を入力",
+      "inquiry-placeholder": "※ 材質・数量・公差・表面処理をご記入ください（STEPファイルはメール添付可）",
+      "message-success": "送信しました",
+      "message-error": "送信に失敗しました",
+      "home": "ホーム",
+      "products": "製品",
+      "news": "ニュース",
+      "message": "メッセージ",
+      "about-us": "会社概要",
+      "contact": "お問い合わせ",
+      "company-desc": "非標準部品のCNC加工。旋盤・フライス・5軸・板金・表面処理を一貫対応し、試作1個から1万個まで承ります。",
+      "street-address": "浙江省杭州市蕭山区宏信路18号",
+      "address-region": "浙江省",
+      "address-locality": "杭州市",
+      "brand": "Osiera",
+      "whats-app-title": "WhatsApp",
+      "copy-email": "クリックでメールアドレスをコピー"
+    },
+    "home": {
+      "our-products": "加工領域",
+      "our-products-desc": "旋盤・フライス・5軸・板金・表面処理。それぞれ量産で維持している公差、材料範囲、納期を掲載しています。",
+      "applicable": "対応業界",
+      "applicable-desc": "自動車、航空宇宙、医療機器の各プログラム。非標準部品を一度で適合させます。",
+      "custom-title": "まだ存在しない部品が必要ですか？",
+      "custom-desc": "STEPファイルと公差指示をお送りください。営業日1日で見積、7日で初品を加工します。",
+      "custom-btn-text": "見積を依頼",
+      "about-us-more": "工場紹介を見る",
+      "latest-news": "最新情報",
+      "faq": "よくある質問",
+      "video-title": "工場内の様子",
+      "video-desc": "STEPファイルが初品検査成績書になるまで。",
+      "title": "Osiera｜非標準部品のCNC加工",
+      "description": "非標準部品のCNC旋盤・フライス・5軸加工・板金。公差±0.005mm、1個からの試作と量産に対応し、営業日1日で見積回答します。",
+      "page-title": "必要な公差で、非標準部品を加工します",
+      "summary-subtitle": "±0.005mm・1個から1万個・営業日1日で見積"
+    },
+    "product": {
+      "inquire-new": "見積を依頼",
+      "product-categories": "部品カテゴリ",
+      "new-products": "新着部品",
+      "related-products": "関連部品",
+      "read-more": "詳しく見る",
+      "total-pages": "全ページ",
+      "title": "CNC加工サービス",
+      "description": "旋盤・フライス・5軸・板金・表面処理。量産で維持できる公差、材料、納期を掲載しています。",
+      "breadcrumb-list-name": "製品",
+      "warning-icon": "assets/svg/warning-icon.svg"
+    },
+    "news": {
+      "title": "ニュース",
+      "description": "見積、公差、材料、初品検査についての現場ノート。",
+      "breadcrumb-list-name": "ニュース"
+    },
+    "applications": {
+      "title": "用途",
+      "description": "当社が加工するプログラムと、業界ごとに非標準部品へ求められる要件。",
+      "breadcrumb-list-name": "用途"
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "最小ロット、必要データ、公差、材料、納期、表面処理。現場と同じ言葉で回答します。",
+      "breadcrumb-list-name": "よくある質問"
+    },
+    "about-us": {
+      "title": "図面から始まる加工現場",
+      "desc": "Osieraは欧米のOEM向けに非標準部品を加工しています。旋盤、フライス、5軸、レーザー切断、測定室を同じ拠点に集約。設計変更のたびに新しいサプライヤーを探す必要はありません。",
+      "summary-subtitle": "±0.005mm・1個から1万個・営業日1日で見積",
+      "video-summary-desc": "工場見学：STEPファイルが初品検査成績書になるまで。",
+      "summary-info-items": [
+        { "title": "加工開始", "value": "2011" },
+        { "title": "保持公差", "value": "±0.005" },
+        { "title": "在庫材料", "value": "40+" },
+        { "title": "納期遵守率", "value": "98%" }
+      ],
+      "company-overview-items": [
+        { "title": "図面から始める", "text": "工具を付ける前に、公差・材料・表面処理を合意します。コストの想定外は、たいてい指示が曖昧なところから始まります。" },
+        { "title": "段取り一回で誤差を減らす", "text": "5軸加工と複合加工により、3回の段取りで公差を積み上げる代わりに、1回のクランプで位置を保ちます。" },
+        { "title": "検査は工程の一部", "text": "初品検査成績書、CMMの測定データ、材料証明書は、求められてからではなく部品と一緒に納品します。" },
+        { "title": "試作も量産も同じ機械", "text": "1個目で承認いただいた部品は、1万個目も同じ方法で加工します。" }
+      ],
+      "our-strengths": "当社の強み",
+      "our-strengths-items": [
+        { "icon": "assets/svg/strength-grid.svg", "text": "旋盤・フライス・5軸を同一拠点で対応" },
+        { "icon": "assets/svg/strength-check.svg", "text": "重要部は±0.005mm。主張ではなく測定で保証" },
+        { "icon": "assets/svg/strength-speed.svg", "text": "新規品番には初品検査成績書を添付" },
+        { "icon": "assets/svg/strength-mail.svg", "text": "STEPファイルから営業日1日で見積" }
+      ],
+      "company-culture": "仕事の進め方",
+      "company-culture-items": [
+        { "title": "保証できる公差だけを見積もる", "text": "量産で再現できない公差は、初品の後ではなく受注前に申し上げます。" },
+        { "title": "1個でも正式なご注文", "text": "試作は量産と同じ機械で加工します。やすり掛けの作業台ではありません。" },
+        { "title": "期限よりバリを取り切る", "text": "バリ取りと洗浄は工程として計画します。梱包間際に詰め込む作業ではありません。" },
+        { "title": "書類は部品と一緒に", "text": "材料証明書、検査データ、梱包明細を箱に入れてお届けします。" }
+      ],
+      "need-to-know": "ご案内",
+      "need-to-know-items": [
+        { "title": "必要データ", "text": "STEPまたはIGES、重要部の2D PDF。SolidWorksやFusionのネイティブデータでも構いません。" },
+        { "title": "最小ロット", "text": "試作は1個から。量産価格は50個から適用されます。" },
+        { "title": "納期", "text": "試作3〜5営業日、量産7〜15営業日（表面処理により変動）。" },
+        { "title": "材料", "text": "アルミ6061・7075、ステンレス304・316L、炭素鋼1045、真鍮、チタン、エンジニアリングプラスチック。" },
+        { "title": "表面処理", "text": "アルマイト、不動態化、亜鉛めっき、粉体塗装、レーザーマーキング、簡易組立。" },
+        { "title": "発送", "text": "DHLまたはFedExのドアツードア。寧波・上海のフォワーダーをご利用の場合はEXWでも対応します。" }
+      ]
+    },
+    "contact-us": {
+      "title": "お問い合わせ",
+      "description": "図面をお送りいただくか、部品についてご説明ください。営業日1日以内に、価格・納期・追加で確認したい点をお返しします。"
+    },
+    "certificates": {
+      "title": "認証",
+      "description": "品質マネジメントの登録状況と、全注文に同梱する検査書類。"
+    },
+    "privacy-policy": {
+      "title": "プライバシーポリシー",
+      "description": "本サイトが保存する情報、その理由、削除のご依頼方法。"
+    },
+    "search": {
+      "title": "検索結果"
+    },
+    "functional": {
+      "inquiry": {
+        "title": "メッセージを送る",
+        "point-message": "お困りですか？メッセージをお送りください"
+      },
+      "page": "ページ"
+    },
+    "not-found": {
+      "not-found": "ページが見つかりません",
+      "search-label": "他の製品・ニュースを検索"
+    },
+    "message": {
+      "inquiry": {
+        "empty-param": "必須項目が入力されていません",
+        "email-format": "メールアドレスの形式が正しくありません",
+        "success": "送信を受け付けました",
+        "error": "送信に失敗しました",
+        "req-frequently": "リクエストが多すぎます"
+      }
+    },
+    "cookie": {
+      "cookie-policy-title": "Cookieポリシー",
+      "cookie-policy-content": "より快適にご利用いただくため、本サイトはCookieを使用します。「同意する」をクリックするか閲覧を続けることで、Cookieの使用に同意したものとみなされます。",
+      "cookie-policy-more": "詳しく見る",
+      "cookie-policy-reject-text": "拒否",
+      "cookie-policy-btn": "同意する"
+    },
+    "organization": {
+      "logo-name": "Osiera",
+      "contact-type": "カスタマーサポート",
+      "web-site-description": "非標準部品のCNC加工。旋盤、フライス、5軸、板金、表面処理。",
+      "knows-about": [
+        "CNC旋盤",
+        "CNCフライス",
+        "5軸加工",
+        "板金加工"
+      ]
+    }
+  }
+}

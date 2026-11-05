@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="ISO 45001 occupational health and safety certification">
+  <path d="M120 20 L228 206 Q234 220 218 220 H22 Q6 220 12 206 Z" fill="#b45309"/>
+  <path d="M120 46 L206 200 H34 Z" fill="none" stroke="#f0b070" stroke-width="3" opacity=".85"/>
+  <text x="120" y="148" text-anchor="middle" font-size="24" letter-spacing="1.2" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" >ISO</text>
+  <text x="120" y="186" text-anchor="middle" font-size="36" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" >45001</text>
+  <text x="120" y="108" text-anchor="middle" font-size="14" letter-spacing="2.4" fill="#ffd7a8" font-family="Arial, Helvetica, sans-serif" font-weight="700" >OHS</text>
+</svg>

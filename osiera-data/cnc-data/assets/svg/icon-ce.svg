@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="CE marking, European Union conformity">
+  <rect x="8" y="8" width="224" height="224" rx="24" fill="#f2f6fd" stroke="#cfdcf0" stroke-width="3"/>
+  <g fill="none" stroke="#003399" stroke-width="17" stroke-linecap="round">
+    <path d="M112 78 A 44 44 0 1 0 112 162"/>
+    <path d="M150 78 L150 162"/>
+    <path d="M150 78 L204 78"/>
+    <path d="M150 120 L196 120"/>
+    <path d="M150 162 L204 162"/>
+  </g>
+  <text x="120" y="216" text-anchor="middle" font-size="19" letter-spacing="3.4" fill="#003399" font-family="Arial, Helvetica, sans-serif" font-weight="700">EU MARK</text>
+</svg>

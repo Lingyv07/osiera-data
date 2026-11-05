@@ -1,0 +1,127 @@
+{
+    "product_cat": [
+        {
+            "slug": "cnc-turning",
+            "order": 10,
+            "name": { "en": "CNC Turning", "ja": "CNC旋盤" },
+            "description": {
+                "en": "Shafts, bushes and threaded parts turned from bar stock.",
+                "ja": "丸棒から削り出すシャフト、ブッシュ、ねじ部品。"
+            }
+        },
+        {
+            "slug": "cnc-milling",
+            "order": 20,
+            "name": { "en": "CNC Milling", "ja": "CNCフライス" },
+            "description": {
+                "en": "Prismatic parts, housings and plates milled to drawing.",
+                "ja": "図面どおりに削り出す角物部品、ハウジング、プレート。"
+            }
+        },
+        {
+            "slug": "5-axis-machining",
+            "order": 30,
+            "name": { "en": "5-Axis Machining", "ja": "5軸加工" },
+            "description": {
+                "en": "Complex geometry held in a single setup.",
+                "ja": "複雑形状を段取り一回で仕上げます。"
+            }
+        },
+        {
+            "slug": "sheet-metal",
+            "order": 40,
+            "name": { "en": "Sheet Metal", "ja": "板金加工" },
+            "description": {
+                "en": "Laser-cut, bent and welded brackets and enclosures.",
+                "ja": "レーザー切断、曲げ、溶接によるブラケットと筐体。"
+            }
+        },
+        {
+            "slug": "surface-finishing",
+            "order": 50,
+            "name": { "en": "Surface Finishing", "ja": "表面処理" },
+            "description": {
+                "en": "Anodising, passivation, plating and powder coating.",
+                "ja": "アルマイト、不動態化、めっき、粉体塗装。"
+            }
+        }
+    ],
+    "category": [
+        {
+            "slug": "machining-notes",
+            "order": 10,
+            "name": { "en": "Machining Notes", "ja": "加工ノート" },
+            "description": {
+                "en": "Tolerances, tooling and what actually happens at the machine.",
+                "ja": "公差、工具、そして実際の加工現場で起きていること。"
+            }
+        },
+        {
+            "slug": "quoting-dfm",
+            "order": 20,
+            "name": { "en": "Quoting & DFM", "ja": "見積とDFM" },
+            "description": {
+                "en": "How a drawing becomes a price, and how to make it cheaper.",
+                "ja": "図面が価格になるまでと、コストを下げる設計の考え方。"
+            }
+        }
+    ],
+    "application_cat": [
+        {
+            "slug": "automotive",
+            "order": 10,
+            "name": { "en": "Automotive", "ja": "自動車" },
+            "description": {
+                "en": "Housings, brackets and fixtures for vehicle programmes.",
+                "ja": "車両開発向けのハウジング、ブラケット、治具。"
+            }
+        },
+        {
+            "slug": "aerospace",
+            "order": 20,
+            "name": { "en": "Aerospace", "ja": "航空宇宙" },
+            "description": {
+                "en": "Structural and bracket work in aluminium and titanium.",
+                "ja": "アルミとチタンの構造部品・ブラケット。"
+            }
+        },
+        {
+            "slug": "medical",
+            "order": 30,
+            "name": { "en": "Medical", "ja": "医療機器" },
+            "description": {
+                "en": "Stainless instrument and device components.",
+                "ja": "ステンレス製の手術器械・デバイス部品。"
+            }
+        }
+    ],
+    "faq_cat": [
+        {
+            "slug": "ordering",
+            "order": 10,
+            "name": { "en": "Ordering", "ja": "ご注文" },
+            "description": {
+                "en": "MOQ, files and how to place an order.",
+                "ja": "最小ロット、必要データ、発注の流れ。"
+            }
+        },
+        {
+            "slug": "tolerances-materials",
+            "order": 20,
+            "name": { "en": "Tolerances & Materials", "ja": "公差と材料" },
+            "description": {
+                "en": "What we can hold and what we can machine.",
+                "ja": "対応できる公差と加工可能な材料。"
+            }
+        },
+        {
+            "slug": "delivery",
+            "order": 30,
+            "name": { "en": "Delivery", "ja": "納期・配送" },
+            "description": {
+                "en": "Lead times, finishing and shipping.",
+                "ja": "納期、表面処理、発送について。"
+            }
+        }
+    ]
+}

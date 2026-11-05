@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="ISO 9001 quality management certification">
+  <path d="M120 8 L232 120 L120 232 L8 120 Z" fill="#0f766e"/>
+  <path d="M120 32 L208 120 L120 208 L32 120 Z" fill="none" stroke="#8fd8cc" stroke-width="3" opacity=".8"/>
+  <text x="120" y="112" text-anchor="middle" font-size="32" letter-spacing="1.5" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" >ISO</text>
+  <text x="120" y="156" text-anchor="middle" font-size="42" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" >9001</text>
+  <text x="120" y="184" text-anchor="middle" font-size="13" letter-spacing="2.6" fill="#a7e6db" font-family="Arial, Helvetica, sans-serif" font-weight="700" >QMS</text>
+</svg>

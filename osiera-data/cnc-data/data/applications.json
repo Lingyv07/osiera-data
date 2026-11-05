@@ -1,0 +1,99 @@
+{
+    "en": [
+        {
+            "slug": "automotive-transmission-housings",
+            "title": "Transmission Housings",
+            "order": 10,
+            "terms": [
+                "automotive",
+                "uncategorized"
+            ],
+            "excerpt": "Aluminium housings with bearing bores that have to line up across two faces, machined and inspected as a matched set.",
+            "image": "assets/images/application-automotive-transmission-housings.jpg",
+            "gallery": [
+                "assets/images/application-automotive-transmission-housings.jpg"
+            ],
+            "content": "<p class=\"content-lead\">Aluminium housings with bearing bores that have to line up across two faces, machined and inspected as a matched set.</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/application-automotive-transmission-housings.jpg\" alt=\"Aluminium transmission housing with two bearing bores machined on opposite faces\" width=\"650\" height=\"433\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>A transmission housing with bearing bores on opposite faces, finished in one clamping.</figcaption>\n</figure>\n\n<h2>The part</h2>\n<p>The housing carries two bearing bores on opposite faces plus a sealing surface. Bore position, not bore size, was the problem on the previous supplier: each bore was round and in tolerance, but the pair drifted enough that the shaft ran tight at one end.</p>\n\n<h2>What we changed</h2>\n<ul>\n<li>Both bores finished in one clamping on a horizontal mill, so position comes from the machine rather than from a fixture.</li>\n<li>Datum taken from the machined sealing face, not from the casting.</li>\n<li>Sealing face flatness held to 0.02 mm across the gasket path.</li>\n<li>Batch traceability from material certificate to serial number, recorded per unit.</li>\n</ul>\n\n<h2>Process window</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>Item</th><th>Specification</th></tr></thead>\n<tbody>\n<tr><td>Material</td><td>A356 cast aluminium, 6061 billet alternative</td></tr>\n<tr><td>Bore position</td><td>±0.01 mm, both bores in one setup</td></tr>\n<tr><td>Bore tolerance</td><td>H7, checked with a bore gauge on the part</td></tr>\n<tr><td>Sealing face</td><td>Flatness 0.02 mm, Ra 1.6 µm</td></tr>\n<tr><td>Volume</td><td>50 – 2,000 units per release</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>Inspection and documents</h2>\n<p>First article with CMM points against the drawing datum, material certificate for the casting, and a dimensional report per release. The same document set is described under <a href=\"/certificates#dimensional-report\">dimensional inspection reports</a>. Machining detail is on the <a href=\"/product/cnc-milled-housings\">milled housings</a> page.</p>\n\n<div class=\"content-cta\"><a href=\"/contact\">Discuss a housing programme</a></div>",
+            "main_title": "Automotive Transmission Housings Machined to Sealing-Face Flatness"
+        },
+        {
+            "slug": "aerospace-structural-brackets",
+            "title": "Aerospace Structural Brackets",
+            "order": 8,
+            "terms": [
+                "aerospace",
+                "uncategorized"
+            ],
+            "excerpt": "7075 and titanium brackets with compound angles, machined in one setup and shipped with a first article report.",
+            "image": "assets/images/application-aerospace-structural-brackets.jpg",
+            "gallery": [
+                "assets/images/application-aerospace-structural-brackets.jpg"
+            ],
+            "content": "<p class=\"content-lead\">7075 and titanium brackets with compound angles, machined in one setup and shipped with a first article report.</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/application-aerospace-structural-brackets.jpg\" alt=\"7075 aluminium aerospace structural brackets with pocketed webs and compound-angle holes\" width=\"650\" height=\"434\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>A bracket family with holes on four faces and a pocketed web, machined in one clamping.</figcaption>\n</figure>\n\n<h2>The part</h2>\n<p>A family of brackets with holes on four faces and a pocketed web. The programme needed a supplier who could hold position without a fixture per face, and who could document it for every revision.</p>\n\n<h2>What we changed</h2>\n<ul>\n<li>Five-axis machining in a single clamping, replacing four setups and three fixtures.</li>\n<li>Wall thickness kept above 1.5 mm after a DFM review with the design team.</li>\n<li>Rough, stress-relieve, finish sequence for the thin ribs.</li>\n<li>Parts laser marked with the part number and batch code before packing.</li>\n</ul>\n\n<h2>Process window</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>Item</th><th>Specification</th></tr></thead>\n<tbody>\n<tr><td>Material</td><td>7075-T6, Ti-6Al-4V, 17-4PH</td></tr>\n<tr><td>Hole position</td><td>±0.005 mm across four faces</td></tr>\n<tr><td>Wall thickness</td><td>1.5 mm minimum, 0.05 mm variation</td></tr>\n<tr><td>Verification</td><td>CMM against the model, AS9102 first article</td></tr>\n<tr><td>Marking</td><td>Laser, part number and batch code</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>Inspection and documents</h2>\n<p>First article built to AS9102 with CMM points, material certification and a signed drawing. The document set is on the <a href=\"/certificates#fai-report\">inspection documents</a> page, and the machining capability is described under <a href=\"/product/five-axis-aerospace-brackets\">five-axis brackets</a>.</p>\n\n<div class=\"content-cta\"><a href=\"/contact\">Send a bracket family for review</a></div>",
+            "main_title": "Aerospace Structural Brackets Machined From Thin-Wall Billet"
+        },
+        {
+            "slug": "surgical-instrument-components",
+            "title": "Surgical Instrument Parts",
+            "order": 6,
+            "terms": [
+                "medical",
+                "uncategorized"
+            ],
+            "excerpt": "316L stainless components with a passivated finish, deburred by hand where a tool cannot reach.",
+            "image": "assets/images/application-surgical-instrument-components.jpg",
+            "gallery": [
+                "assets/images/application-surgical-instrument-components.jpg"
+            ],
+            "content": "<p class=\"content-lead\">316L stainless components with a passivated finish, deburred by hand where a tool cannot reach.</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/application-surgical-instrument-components.jpg\" alt=\"Passivated 316L stainless surgical instrument components with fine cross holes\" width=\"650\" height=\"433\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>Small 316L components, passivated and checked under magnification before bagging.</figcaption>\n</figure>\n\n<h2>The part</h2>\n<p>Small turned and milled parts for an instrument assembly, where a burr is a functional defect rather than a cosmetic one. The parts are handled, cleaned and sterilised before they reach a patient, so every edge matters.</p>\n\n<h2>What we changed</h2>\n<ul>\n<li>316L stainless, turned and milled, then passivated to ASTM A967.</li>\n<li>Cross holes deburred with a back-chamfer tool and checked under magnification.</li>\n<li>Surface finish Ra 0.4 on the parts that contact tissue.</li>\n<li>Cleaned and packed in individual bags before shipping; no bulk tumbling.</li>\n</ul>\n\n<h2>Process window</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>Item</th><th>Specification</th></tr></thead>\n<tbody>\n<tr><td>Material</td><td>316L, 17-4PH on request</td></tr>\n<tr><td>Diameter range</td><td>Ø2 – 40 mm</td></tr>\n<tr><td>Tolerance</td><td>±0.005 mm on fits, ±0.01 mm general</td></tr>\n<tr><td>Surface finish</td><td>Ra 0.4 µm on contact faces</td></tr>\n<tr><td>Passivation</td><td>ASTM A967, citric or nitric</td></tr>\n<tr><td>Packing</td><td>Individual bag, batch label, certificate per lot</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>Inspection and documents</h2>\n<p>Material certificate to EN 10204 3.1, passivation record and a dimensional report per lot. Surface finish is measured on a sample from each batch rather than on a coupon. Documents are described under <a href=\"/certificates#material-cert\">material certification</a>; turning capability is on the <a href=\"/product/cnc-turned-shafts\">turned shafts</a> page.</p>\n\n<div class=\"content-cta\"><a href=\"/contact\">Ask about instrument components</a></div>",
+            "main_title": "Surgical Instrument Components With Cleanable Edges and Passivated Surfaces"
+        }
+    ],
+    "ja": [
+        {
+            "slug": "automotive-transmission-housings",
+            "title": "自動車用トランスミッションケース",
+            "order": 10,
+            "terms": [
+                "automotive"
+            ],
+            "image": "assets/images/application-automotive-transmission-housings.jpg",
+            "gallery": [
+                "assets/images/application-automotive-transmission-housings.jpg"
+            ],
+            "excerpt": "2面のベアリング穴を同軸に保つ必要があるアルミハウジング。加工と検査をセットで管理します。",
+            "content": "<p class=\"content-lead\">2つの面にまたがる軸受穴の位置を合わせる必要があるアルミハウジング。セット単位で加工・検査します。</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/application-automotive-transmission-housings.jpg\" alt=\"対向する2面に軸受穴を加工したアルミ製トランスミッションハウジング\" width=\"650\" height=\"433\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>対向する面に軸受穴を持つトランスミッションハウジング。1回のクランプで仕上げています。</figcaption>\n</figure>\n\n<h2>部品について</h2>\n<p>ハウジングは、対向する2面の軸受穴とシール面で構成されます。前の供給元で問題だったのは穴径ではなく穴位置でした。個々の穴は真円で公差内でも、2つの穴の関係がずれ、シャフトが片側で渋くなる状態でした。</p>\n\n<h2>変更したこと</h2>\n<ul>\n<li>2つの穴を横形フライスで同一クランプ仕上げに変更。位置は治具ではなく機械から出ます。</li>\n<li>基準は鋳物ではなく、加工済みのシール面から取ります。</li>\n<li>ガスケット経路全体の平面度を 0.02mm で管理。</li>\n<li>材料証明書からシリアル番号まで、1台ごとに記録し追跡可能にしています。</li>\n</ul>\n\n<h2>加工仕様</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>項目</th><th>仕様</th></tr></thead>\n<tbody>\n<tr><td>材料</td><td>A356 鋳物、代替として 6061 削り出し</td></tr>\n<tr><td>穴位置</td><td>±0.01mm、2穴を同一段取りで加工</td></tr>\n<tr><td>穴公差</td><td>H7、部品上でシリンダーゲージにより確認</td></tr>\n<tr><td>シール面</td><td>平面度 0.02mm、Ra 1.6µm</td></tr>\n<tr><td>数量</td><td>1リリース 50 – 2,000台</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>検査と書類</h2>\n<p>図面基準に対するCMM測定点を含む初品成績書、鋳物の材料証明書、リリースごとの寸法検査報告書を提出します。同じ書類一式は <a href=\"/ja/certificates#dimensional-report\">寸法検査報告書</a> に掲載しています。加工の詳細は <a href=\"/ja/product/cnc-milled-housings\">フライス加工ハウジング</a> のページをご覧ください。</p>\n\n<div class=\"content-cta\"><a href=\"/ja/contact\">ハウジング案件について相談する</a></div>",
+            "main_title": "シール面の平面度まで管理する自動車用トランスミッションケース"
+        },
+        {
+            "slug": "aerospace-structural-brackets",
+            "title": "航空宇宙の構造ブラケット",
+            "order": 8,
+            "terms": [
+                "aerospace"
+            ],
+            "image": "assets/images/application-aerospace-structural-brackets.jpg",
+            "gallery": [
+                "assets/images/application-aerospace-structural-brackets.jpg"
+            ],
+            "excerpt": "複合角度を持つ7075・チタンのブラケット。一度の段取りで加工し、初品成績書を添えて出荷します。",
+            "content": "<p class=\"content-lead\">複合角度を持つ7075・チタンのブラケットを1回の段取りで加工し、初品検査成績書とともに出荷します。</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/application-aerospace-structural-brackets.jpg\" alt=\"ポケット付きウェブと複合角度の穴を持つ7075アルミ製航空宇宙用構造ブラケット\" width=\"650\" height=\"434\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>4面に穴とポケット付きウェブを持つブラケット群。1回のクランプで加工しています。</figcaption>\n</figure>\n\n<h2>部品について</h2>\n<p>4面に穴、内部にポケット状のウェブを持つブラケット群です。面ごとに治具を用意せずに位置を保てること、そしてリビジョンごとに書類で証明できることが求められました。</p>\n\n<h2>変更したこと</h2>\n<ul>\n<li>5軸加工の1回クランプに変更し、4段取り・3治具を削減。</li>\n<li>設計チームとのDFMレビュー後、肉厚を1.5mm以上に確保。</li>\n<li>薄いリブは荒加工→応力除去→仕上げの順で加工。</li>\n<li>梱包前に品番とバッチコードをレーザーマーキング。</li>\n</ul>\n\n<h2>加工仕様</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>項目</th><th>仕様</th></tr></thead>\n<tbody>\n<tr><td>材料</td><td>7075-T6、Ti-6Al-4V、17-4PH</td></tr>\n<tr><td>穴位置</td><td>4面にわたり ±0.005mm</td></tr>\n<tr><td>肉厚</td><td>最小1.5mm、ばらつき 0.05mm</td></tr>\n<tr><td>検証</td><td>モデルに対するCMM測定、AS9102 初品</td></tr>\n<tr><td>マーキング</td><td>レーザーで品番・バッチコード</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>検査と書類</h2>\n<p>AS9102 に沿った初品に、CMM測定点、材料証明、記名済み図面を添付します。書類一式は <a href=\"/ja/certificates#fai-report\">検査書類</a> に、加工能力は <a href=\"/ja/product/five-axis-aerospace-brackets\">5軸ブラケット</a> に記載しています。</p>\n\n<div class=\"content-cta\"><a href=\"/ja/contact\">ブラケット群のレビューを依頼する</a></div>",
+            "main_title": "薄肉リブの倒れを抑える航空宇宙の構造ブラケット加工"
+        },
+        {
+            "slug": "surgical-instrument-components",
+            "title": "手術器械部品",
+            "order": 6,
+            "terms": [
+                "medical"
+            ],
+            "image": "assets/images/application-surgical-instrument-components.jpg",
+            "gallery": [
+                "assets/images/application-surgical-instrument-components.jpg"
+            ],
+            "excerpt": "316Lステンレスの部品を不動態化処理。工具が届かない箇所は手作業でバリ取りします。",
+            "content": "<p class=\"content-lead\">316L ステンレス製の部品を不動態化仕上げし、工具の届かない箇所は手作業でバリ取りします。</p>\n\n<figure class=\"content-figure\">\n<img src=\"assets/images/application-surgical-instrument-components.jpg\" alt=\"微細なクロス穴を持つ不動態化処理済み316Lステンレス手術器具部品\" width=\"650\" height=\"433\" loading=\"lazy\" style=\"display:block;width:650px;max-width:100%;height:auto;margin:0 auto\">\n<figcaption>小型の316L部品。不動態化後、拡大検査を経て個包装します。</figcaption>\n</figure>\n\n<h2>部品について</h2>\n<p>器具組立用の小型旋削・フライス部品です。バリは見た目の問題ではなく機能上の欠陥になります。患者に届く前に洗浄・滅菌されるため、すべてのエッジが重要です。</p>\n\n<h2>変更したこと</h2>\n<ul>\n<li>316L を旋削・フライス加工し、ASTM A967 で不動態化。</li>\n<li>クロス穴は裏面取り工具でバリ取りし、拡大して確認。</li>\n<li>組織に触れる部位は Ra 0.4 に仕上げ。</li>\n<li>バレル研磨は行わず、洗浄後1個ずつ袋詰めして出荷。</li>\n</ul>\n\n<h2>加工仕様</h2>\n<div class=\"table-scroll\">\n<table class=\"editor-table\">\n<thead><tr><th>項目</th><th>仕様</th></tr></thead>\n<tbody>\n<tr><td>材料</td><td>316L、ご要望により 17-4PH</td></tr>\n<tr><td>径範囲</td><td>Ø2 – 40mm</td></tr>\n<tr><td>公差</td><td>嵌合部 ±0.005mm、一般 ±0.01mm</td></tr>\n<tr><td>表面粗さ</td><td>接触面 Ra 0.4µm</td></tr>\n<tr><td>不動態化</td><td>ASTM A967、クエン酸または硝酸</td></tr>\n<tr><td>梱包</td><td>個包装、バッチラベル、ロットごとの証明書</td></tr>\n</tbody>\n</table>\n</div>\n\n<h2>検査と書類</h2>\n<p>EN 10204 3.1 の材料証明書、不動態化記録、ロットごとの寸法検査報告書を提出します。表面粗さはテストピースではなく、各バッチから抜き取った実部品で測定します。書類は <a href=\"/ja/certificates#material-cert\">材料証明</a> に、旋削能力は <a href=\"/ja/product/cnc-turned-shafts\">旋削シャフト</a> のページに記載しています。</p>\n\n<div class=\"content-cta\"><a href=\"/ja/contact\">器具部品について相談する</a></div>",
+            "main_title": "洗浄性とエッジ品質を両立する手術器械部品"
+        }
+    ]
+}

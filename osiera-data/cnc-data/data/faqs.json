@@ -1,0 +1,150 @@
+{
+    "en": [
+        {
+            "slug": "minimum-order-quantity",
+            "title": "What Is Your Minimum Order?",
+            "order": 0,
+            "terms": [
+                "ordering",
+                "uncategorized"
+            ],
+            "excerpt": "",
+            "answer": "One piece. Prototypes run on the same machines as production, so the first part you approve is made the same way as the thousandth. There is no separate prototype cell with different tooling.",
+            "content": "<p>One piece. Prototypes run on the same machines as production, so the first part you approve is made the same way as the thousandth. There is no separate prototype cell with different tooling.</p>\n<ul>\n<li><strong>1 – 49 pieces:</strong> prototype pricing, first article report included.</li>\n<li><strong>50 pieces and up:</strong> production pricing, fixture and program kept for repeat orders.</li>\n<li><strong>Sheet metal:</strong> 10 pieces minimum for a new enclosure, because the first article is checked assembled.</li>\n</ul>\n<p>If you are between the two, ask for both columns on the quote — the crossover point is usually obvious once setup is shown separately. See <a href=\"/how-to-read-a-cnc-quote\">how a quote is built</a>.</p>",
+            "main_title": "What Is the Minimum Order Quantity for CNC Machined Parts?"
+        },
+        {
+            "slug": "files-needed-for-a-quote",
+            "title": "Which Files Do I Need?",
+            "order": 0,
+            "terms": [
+                "ordering",
+                "uncategorized"
+            ],
+            "excerpt": "",
+            "answer": "A STEP or IGES model, plus a 2D PDF for critical dimensions, threads and surface finish. Add the material, quantity and any finishing requirement.",
+            "content": "<p>A STEP or IGES model, plus a 2D PDF for critical dimensions, threads and surface finish. Add the material, quantity and any finishing requirement.</p>\n<ul>\n<li><strong>Model:</strong> STEP preferred; native SolidWorks, Fusion or Inventor files are fine.</li>\n<li><strong>Drawing:</strong> PDF with datum faces and the fits that matter marked.</li>\n<li><strong>Specification:</strong> material grade, quantity, finish, and any standard the part must meet.</li>\n<li><strong>Optional:</strong> a photo of the mating part, or the assembly the part goes into.</li>\n</ul>\n<p>A DXF is enough for sheet metal if the bend lines and material are on it. What we check in the model before quoting is listed in <a href=\"/step-file-to-first-article\">this article</a>.</p>",
+            "main_title": "Which Files Do You Need to Get a CNC Machining Quote?"
+        },
+        {
+            "slug": "what-tolerance-can-you-hold",
+            "title": "What Tolerance Can You Hold?",
+            "order": 0,
+            "terms": [
+                "tolerances-materials",
+                "uncategorized"
+            ],
+            "excerpt": "",
+            "answer": "±0.01 mm as a general tolerance, ±0.005 mm on reamed, bored or ground features, and Ra 0.8 surface finish as machined.",
+            "content": "<p>±0.01 mm as a general tolerance, ±0.005 mm on reamed, bored or ground features, and Ra 0.8 surface finish as machined.</p>\n<ul>\n<li><strong>General:</strong> ±0.01 mm on milled and turned dimensions.</li>\n<li><strong>Fit features:</strong> ±0.005 mm, measured on the part and reported in the first article.</li>\n<li><strong>Hole position:</strong> ±0.005 mm when finished in one setup.</li>\n<li><strong>Surface:</strong> Ra 0.8 µm as machined, Ra 0.4 µm by grinding.</li>\n</ul>\n<p>Tighter needs a drawing review first — we quote what we can measure. The reasoning behind the numbers is in <a href=\"/tolerances-that-matter\">this article on tolerances</a>.</p>",
+            "main_title": "What Tolerance Can You Hold on a Production Part?"
+        },
+        {
+            "slug": "which-materials",
+            "title": "Which Materials Do You Machine?",
+            "order": 0,
+            "terms": [
+                "tolerances-materials",
+                "uncategorized"
+            ],
+            "excerpt": "",
+            "answer": "6061 and 7075 aluminium, 304 and 316L stainless, 1045 carbon steel, 17-4PH, brass, titanium Ti-6Al-4V, and engineering plastics such as POM, PEEK and PTFE.",
+            "content": "<p>6061 and 7075 aluminium, 304 and 316L stainless, 1045 carbon steel, 17-4PH, brass, titanium Ti-6Al-4V, and engineering plastics such as POM, PEEK and PTFE.</p>\n<ul>\n<li><strong>Aluminium:</strong> 6061-T6, 7075-T6, 5083 plate.</li>\n<li><strong>Stainless:</strong> 303, 304, 316L, 17-4PH.</li>\n<li><strong>Steel:</strong> 1045, 4140, S355 plate.</li>\n<li><strong>Other:</strong> brass C360, titanium Ti-6Al-4V, POM, PEEK, PTFE.</li>\n</ul>\n<p>If the material is not on the list, send the grade and the standard — most grades are available through our stock partner within a week. Material certificates come with every batch; see <a href=\"/certificates#material-cert\">material certification</a>.</p>",
+            "main_title": "Which Metals and Plastics Can You Machine for Me?"
+        },
+        {
+            "slug": "how-long-does-an-order-take",
+            "title": "How Long Does an Order Take?",
+            "order": 0,
+            "terms": [
+                "delivery",
+                "uncategorized"
+            ],
+            "excerpt": "",
+            "answer": "Three to five working days for prototypes, seven to fifteen for production, measured from drawing approval and material arrival.",
+            "content": "<p>Three to five working days for prototypes, seven to fifteen for production, measured from drawing approval and material arrival.</p>\n<ul>\n<li><strong>Prototype:</strong> 3 – 5 working days, first article included.</li>\n<li><strong>Production:</strong> 7 – 15 working days depending on volume and material.</li>\n<li><strong>Finishing:</strong> 3 – 6 days for anodising, plating or powder coating.</li>\n<li><strong>Express:</strong> available on machined parts when the material is in stock.</li>\n</ul>\n<p>The clock starts when the drawing is approved and the material is on the floor, not when the PO arrives. Day-by-day breakdown is in <a href=\"/step-file-to-first-article\">this article</a>.</p>",
+            "main_title": "How Long Does a CNC Machining Order Take to Ship?"
+        },
+        {
+            "slug": "finishing-and-assembly",
+            "title": "Do You Offer Finishing?",
+            "order": 0,
+            "terms": [
+                "delivery",
+                "uncategorized"
+            ],
+            "excerpt": "",
+            "answer": "Yes. Anodising, passivation, zinc plating, powder coating and laser marking run in-house or through a partner line we inspect. Light assembly is quoted per part.",
+            "content": "<p>Yes. Anodising, passivation, zinc plating, powder coating and laser marking run in-house or through a partner line we inspect. Light assembly is quoted per part.</p>\n<ul>\n<li><strong>In-house:</strong> Type II / III anodising, passivation, laser marking.</li>\n<li><strong>Partner line:</strong> zinc and zinc-nickel plating, heat treatment — inspected on return.</li>\n<li><strong>Assembly:</strong> pressing bearings, inserting hardware, bagging kits.</li>\n<li><strong>Packing:</strong> individual bags, batch labels, kitting to a BOM.</li>\n</ul>\n<p>Finishing changes dimensions, so state the masking on the drawing. Details are on the <a href=\"/product/anodised-passivated-parts\">finishing page</a>.</p>",
+            "main_title": "Can You Handle Finishing, Assembly and Packing?"
+        }
+    ],
+    "ja": [
+        {
+            "slug": "minimum-order-quantity",
+            "title": "最小ロットは？",
+            "order": 6,
+            "terms": [
+                "ordering"
+            ],
+            "answer": "1個から対応します。試作は量産と同じ機械で加工するため、承認いただいた初品は1,000個目と同じ作りです。専用の試作セルや別工具は使いません。",
+            "content": "<p>1個から対応します。試作は量産と同じ機械で加工するため、承認いただいた初品は1,000個目と同じ作りです。専用の試作セルや別工具は使いません。</p>\n<ul>\n<li><strong>1 – 49個:</strong> 試作価格、初品検査成績書込み。</li>\n<li><strong>50個以上:</strong> 量産価格、治具とプログラムは追加発注用に保管。</li>\n<li><strong>板金:</strong> 新しい筐体は10個から。初品を組立状態で確認するためです。</li>\n</ul>\n<p>境界付近の数量なら、見積に両方の欄を出させてください。段取りを分けて表示すれば、損益分岐はすぐ分かります。<a href=\"/ja/how-to-read-a-cnc-quote\">見積の内訳</a> もご覧ください。</p>",
+            "main_title": "CNC加工の最小ロットは何個から対応できますか？"
+        },
+        {
+            "slug": "files-needed-for-a-quote",
+            "title": "見積に必要なデータは？",
+            "order": 5,
+            "terms": [
+                "ordering"
+            ],
+            "answer": "STEP または IGES モデルと、重要寸法・ねじ・表面粗さが入った2D PDF。あわせて材質、数量、表面処理の要否をお知らせください。",
+            "content": "<p>STEP または IGES モデルと、重要寸法・ねじ・表面粗さが入った2D PDF。あわせて材質、数量、表面処理の要否をお知らせください。</p>\n<ul>\n<li><strong>モデル:</strong> STEP 推奨。SolidWorks、Fusion、Inventor のネイティブデータも可。</li>\n<li><strong>図面:</strong> 基準面と重要嵌合部に印を付けた PDF。</li>\n<li><strong>仕様:</strong> 材質、数量、表面処理、準拠規格。</li>\n<li><strong>任意:</strong> 嵌め合う相手部品や組立品の写真。</li>\n</ul>\n<p>板金は、曲げ線と材質が入っていれば展開DXFだけでも見積可能です。見積前のモデル確認項目は <a href=\"/ja/step-file-to-first-article\">こちらの記事</a> にまとめています。</p>",
+            "main_title": "見積に必要なデータは何ですか？"
+        },
+        {
+            "slug": "what-tolerance-can-you-hold",
+            "title": "対応公差は？",
+            "order": 4,
+            "terms": [
+                "tolerances-materials"
+            ],
+            "answer": "一般公差 ±0.01mm、リーマ・中ぐり・研削部は ±0.005mm、加工面の表面粗さは Ra 0.8 です。",
+            "content": "<p>一般公差 ±0.01mm、リーマ・中ぐり・研削部は ±0.005mm、加工面の表面粗さは Ra 0.8 です。</p>\n<ul>\n<li><strong>一般:</strong> フライス・旋削寸法で ±0.01mm。</li>\n<li><strong>嵌合部:</strong> ±0.005mm。部品を測定し初品成績書に記載します。</li>\n<li><strong>穴位置:</strong> 同一段取りで仕上げる場合は ±0.005mm。</li>\n<li><strong>表面:</strong> 加工面 Ra 0.8µm、研削で Ra 0.4µm。</li>\n</ul>\n<p>これより厳しい場合は図面レビューが必要です。測れるものを提示するのが原則です。考え方は <a href=\"/ja/tolerances-that-matter\">公差の記事</a> にまとめています。</p>",
+            "main_title": "量産部品で対応できる公差はどれくらいですか？"
+        },
+        {
+            "slug": "which-materials",
+            "title": "対応材料は？",
+            "order": 3,
+            "terms": [
+                "tolerances-materials"
+            ],
+            "answer": "6061・7075 アルミ、304・316L ステンレス、1045 炭素鋼、17-4PH、真鍮、チタン Ti-6Al-4V、POM・PEEK・PTFE などのエンジニアリングプラスチックに対応します。",
+            "content": "<p>6061・7075 アルミ、304・316L ステンレス、1045 炭素鋼、17-4PH、真鍮、チタン Ti-6Al-4V、POM・PEEK・PTFE などのエンジニアリングプラスチックに対応します。</p>\n<ul>\n<li><strong>アルミ:</strong> 6061-T6、7075-T6、5083 板材。</li>\n<li><strong>ステンレス:</strong> 303、304、316L、17-4PH。</li>\n<li><strong>鋼:</strong> 1045、4140、S355 板材。</li>\n<li><strong>その他:</strong> 真鍮 C360、チタン Ti-6Al-4V、POM、PEEK、PTFE。</li>\n</ul>\n<p>リストにない材質は、グレードと規格をお知らせください。多くは在庫パートナー経由で1週間以内に手配できます。材料証明書はロットごとに添付します。<a href=\"/ja/certificates#material-cert\">材料証明</a> をご覧ください。</p>",
+            "main_title": "対応している金属と樹脂の材料を教えてください"
+        },
+        {
+            "slug": "how-long-does-an-order-take",
+            "title": "納期は？",
+            "order": 2,
+            "terms": [
+                "delivery"
+            ],
+            "answer": "試作は3 – 5営業日、量産は7 – 15営業日。図面承認と材料入荷から起算します。",
+            "content": "<p>試作は3 – 5営業日、量産は7 – 15営業日。図面承認と材料入荷から起算します。</p>\n<ul>\n<li><strong>試作:</strong> 3 – 5営業日、初品検査込み。</li>\n<li><strong>量産:</strong> 数量と材質により 7 – 15営業日。</li>\n<li><strong>表面処理:</strong> アルマイト・めっき・粉体塗装は 3 – 6日。</li>\n<li><strong>特急:</strong> 材料在庫がある加工品は対応可能です。</li>\n</ul>\n<p>起算は発注書ではなく、図面承認と材料の投入です。日ごとの流れは <a href=\"/ja/step-file-to-first-article\">こちらの記事</a> にまとめています。</p>",
+            "main_title": "発注から納品まで何営業日かかりますか？"
+        },
+        {
+            "slug": "finishing-and-assembly",
+            "title": "表面処理・組立は？",
+            "order": 1,
+            "terms": [
+                "delivery"
+            ],
+            "answer": "対応します。アルマイト、不動態化、亜鉛めっき、粉体塗装、レーザーマーキングは自社または検査済みの協力工場で行い、軽組立は部品単位で見積もります。",
+            "content": "<p>対応します。アルマイト、不動態化、亜鉛めっき、粉体塗装、レーザーマーキングは自社または検査済みの協力工場で行い、軽組立は部品単位で見積もります。</p>\n<ul>\n<li><strong>自社:</strong> Type II / III アルマイト、不動態化、レーザーマーキング。</li>\n<li><strong>協力工場:</strong> 亜鉛・亜鉛ニッケルめっき、熱処理。戻り時に検査します。</li>\n<li><strong>組立:</strong> 軸受の圧入、金具の挿入、キットの袋詰め。</li>\n<li><strong>梱包:</strong> 個包装、バッチラベル、BOM 単位のキッティング。</li>\n</ul>\n<p>表面処理は寸法を変えるため、マスキング範囲は図面にご指示ください。詳細は <a href=\"/ja/product/anodised-passivated-parts\">表面処理のページ</a> にあります。</p>",
+            "main_title": "表面処理・組立・梱包までまとめて依頼できますか？"
+        }
+    ]
+}
