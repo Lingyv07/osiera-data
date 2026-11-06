@@ -1,0 +1,16 @@
+# Normalise text files to LF so JSON diffs stay readable across machines
+* text=auto eol=lf
+
+*.json text eol=lf
+*.svg  text eol=lf
+*.md   text eol=lf
+
+# Media is never diffed or converted
+*.jpg  binary
+*.jpeg binary
+*.png  binary
+*.webp binary
+*.gif  binary
+*.avif binary
+*.mp4  binary
+*.webm binary

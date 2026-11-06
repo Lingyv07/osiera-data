@@ -1,0 +1,15 @@
+# Editors
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives and temporary files
+*.zip
+*.7z
+*.tmp
+*.bak
