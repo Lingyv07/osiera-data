@@ -37,6 +37,7 @@ cnc-data/
     ├── menus.json
     ├── lang-content.json
     ├── page-info.json
+    ├── pages.json
     ├── products.json
     ├── applications.json
     ├── faqs.json
@@ -56,6 +57,7 @@ industry can live beside it (`pipe-data/`, `furniture-data/`) without restructur
 | `menus.json` | Primary menu: `name`, `slug`, `location`, `extra_pages`, `items`. |
 | `lang-content.json` | Per-language UI copy: header, footer, home, product, news, applications, faq, about-us, contact-us, certificates, privacy-policy, search. |
 | `page-info.json` | Site-wide contact/company settings under `shared`, plus per-language overrides (address, banner and section images, copy). Missing keys fall back to `shared`. |
+| `pages.json` | Bodies for the skeleton pages, keyed by language and slug: `{ "title", "excerpt", "content" }`. Currently the privacy policy in both languages. |
 | `products.json` | 5 products per language. |
 | `applications.json` | 3 applications per language. |
 | `faqs.json` | 6 FAQ entries per language. |
@@ -99,13 +101,18 @@ apply — FAQ rows carry `answer` instead of `gallery`.
 The importer walks the dataset in a fixed order, because later steps reference earlier ones:
 
 1. languages
-2. pages (title from the menu label, falling back to `lang-content`)
+2. pages — title from the menu label (falling back to `lang-content`), body and excerpt from
+   `pages.json`
 3. taxonomy terms
 4. primary menu and its items
 5. language content (icon paths resolved to upload URLs)
 6. page info (`shared`, then per-language overrides)
 7. products → posts → applications → FAQs
 8. translation links between the two language versions of the same slug
+
+A page body is written only when the page has no content yet, or still carries WordPress's default
+privacy-policy draft (`privacy-policy-tutorial`). A page someone has edited is never overwritten, so
+re-importing on a live site is safe.
 
 ## Conventions
 
@@ -185,6 +192,7 @@ slug 同语言已存在就跳过；分类、菜单项、附件按名称/slug/文
 | `menus.json` | 主菜单：name / slug / location / extra_pages / items |
 | `lang-content.json` | 各语言的界面文案（页头、页脚、首页、产品、资讯、应用、FAQ、关于、联系、证书、隐私、搜索） |
 | `page-info.json` | `shared` 放全站联系方式与公司信息，各语言键放覆盖项（地址、横幅与栏目图、文案） |
+| `pages.json` | 骨架页面的正文，按语言 + slug 存 `{title, excerpt, content}`；目前是英/日两版隐私政策 |
 | `products.json` / `applications.json` / `faqs.json` / `posts.json` | 每语言 5 / 3 / 6 / 4 条 |
 | `assets-alt.json` | 按资源路径写 alt 文案，导入后图片与视频的可读描述不退化文件名 |
 
@@ -197,6 +205,9 @@ slug 同语言已存在就跳过；分类、菜单项、附件按名称/slug/文
 - `order` 决定列表页排序，相同值按写入顺序。
 - `content` 是 HTML，只有 `src` / `href` / `poster` / `data-src` / `data-original` 里的资源路径会被替换。
 - 媒体按**文件名**复用：原地替换图片没问题，改名会在已导入的站点上多出一份附件。
+
+页面正文只在"还没有正文"或"仍是 WordPress 自带隐私政策草稿"时写入；后台改过的页面不会被覆盖，
+所以线上站重新导入也是安全的。
 
 **新增语言**：在 `languages.json` 加一项 → 在四个内容 JSON 与 `lang-content.json` 加同名语言键 →
 按需要给 `page-info.json` 加覆盖 → slug 与现有语言保持一致 → 在 `assets/svg/` 放国旗 →
